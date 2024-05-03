@@ -1,0 +1,261 @@
+Activity,Rating,Emotion
+assembling a simple puzzle,7.0,sad
+attending a quiet matinee movie,4.0,sad
+attending a quiet matinee movie,9.0,sad
+baking bread or pastries,9.0,sad
+building a fort with blankets,6.0,sad
+continue current activity,9.0,happy
+cook or bake simple recipes,5.0,happy
+create a scrapbook,3.0,happy
+create a scrapbook,6.0,happy
+create art with calming colors,8.0,fear
+create art with calming colors,9.0,fear
+cuddling with a weighted blanket,6.0,sad
+dance to upbeat songs,9.0,happy
+dance to upbeat songs,9.0,happy
+do a highenergy dance,9.0,angry
+do hard yard work,1.0,angry
+do intense physical exercise,7.0,angry
+do intense physical exercise,5.0,angry
+draw and color,9.0,happy
+drink warm tea or hot chocolate,9.0,fear
+drink warm tea or hot chocolate,6.0,fear
+engage in supervised destruction activities,2.0,angry
+engage in vigorous sports,2.0,angry
+engaging in slow sensory activities,9.0,sad
+engaging in slow sensory activities,9.0,sad
+engaging in slow sensory activities,9.0,sad
+engaging in slow sensory activities,2.0,sad
+gardening with intensity,3.0,angry
+gardening with intensity,1.0,angry
+gardening,2.0,sad
+go for a fun ride,9.0,happy
+go for a fun ride,9.0,happy
+go to a childrens museum,3.0,happy
+going on a nature walk,4.0,happy
+going to a petting zoo,9.0,happy
+having a tea party,5.0,sad
+having a tea party,4.0,sad
+kick a soccer ball against a wall,4.0,angry
+listen to nature sounds,8.0,fear
+listen to soft classical music,9.0,fear
+making a homemade pizza,4.0,sad
+making a photo album,1.0,sad
+making a photo album,5.0,sad
+making a photo album,3.0,sad
+meditate or use guided imagery,9.0,fear
+painting a picture using watercolors,7.0,sad
+painting large canvas,9.0,happy
+participate in a dance class,5.0,happy
+participate in a drumming session,2.0,angry
+participate in a loud sports event,2.0,angry
+participate in a loud sports event,1.0,angry
+participate in a treasure hunt,0.0,happy
+participate in photography walk,8.0,happy
+participating in a library story hour,2.0,sad
+play a favorite song,9.0,happy
+play a musical instrument,9.0,happy
+play pretend games,7.0,happy
+playing minigolf,2.0,happy
+playing minigolf,2.0,happy
+playing with pets,9.0,happy
+practice tai chi,1.0,fear
+read a favorite book,9.0,happy
+read books about overcoming fear,9.0,fear
+read reassuring stories,5.0,fear
+run sprints,9.0,angry
+scream in a private space,2.0,angry
+shout into or sing loudly into a pillow,3.0,angry
+smash ice cubes,1.0,angry
+stomp on bubble wrap,9.0,angry
+tear up scrap paper,7.0,angry
+visiting a museum on a quiet day,2.0,sad
+visiting a quiet scenic place,2.0,sad
+watch a slowpaced play or musical,4.0,fear
+watch uplifting cartoons,7.0,fear
+watching a slowpaced cheerful cartoon,4.0,sad
+Continue current activity,5.573333333333333,happy
+Play a favorite song,5.573333333333333,happy
+Dance to upbeat songs,5.573333333333333,happy
+Watch favorite cartoons,5.573333333333333,happy
+Play interactive video games,5.573333333333333,happy
+Engage in sports,5.573333333333333,happy
+Draw and color,5.573333333333333,happy
+Build with Legos,5.573333333333333,happy
+Read a favorite book,5.573333333333333,happy
+Participate in a treasure hunt,5.573333333333333,happy
+Do a fun science experiment,5.573333333333333,happy
+Visit a playground,5.573333333333333,happy
+Engage in sensory play,5.573333333333333,happy
+Play a musical instrument,5.573333333333333,happy
+Cook or bake simple recipes,5.573333333333333,happy
+Have a picnic,5.573333333333333,happy
+Play pretend games,5.573333333333333,happy
+Participate in a dance class,5.573333333333333,happy
+Go for a fun ride,5.573333333333333,happy
+Playing with pets,5.573333333333333,happy
+Go bowling,5.573333333333333,happy
+Painting large canvas,5.573333333333333,happy
+Performing a play,5.573333333333333,happy
+Doing magic tricks,5.573333333333333,happy
+Attending a children's concert,5.573333333333333,happy
+Visiting a zoo,5.573333333333333,happy
+Going on a nature walk,5.573333333333333,happy
+Collecting shells or rocks,5.573333333333333,happy
+Making jewelry,5.573333333333333,happy
+Bird watching,5.573333333333333,happy
+Going to a petting zoo,5.573333333333333,happy
+Storytelling session,5.573333333333333,happy
+Participate in photography walk,5.573333333333333,happy
+Explore new apps,5.573333333333333,happy
+Conduct a mini orchestra,5.573333333333333,happy
+Create a scrapbook,5.573333333333333,happy
+Decorate personal space,5.573333333333333,happy
+Assemble a model,5.573333333333333,happy
+Watching a funny movie,5.573333333333333,happy
+Visit an amusement park,5.573333333333333,happy
+Go to a children's museum,5.573333333333333,happy
+Playing mini-golf,5.573333333333333,happy
+Hug or physical comfort,5.573333333333333,sad
+Play soothing music,5.573333333333333,sad
+Drawing or painting,5.573333333333333,sad
+Engaging in slow sensory activities,5.573333333333333,sad
+Cuddling with a weighted blanket,5.573333333333333,sad
+Reading comforting stories,5.573333333333333,sad
+Talking to a friend or counselor,5.573333333333333,sad
+Writing in a journal,5.573333333333333,sad
+Making comfort food,5.573333333333333,sad
+Looking at family photos,5.573333333333333,sad
+Doing puzzles,5.573333333333333,sad
+Gardening,5.573333333333333,sad
+Watching calming documentaries,5.573333333333333,sad
+Floating in a pool,5.573333333333333,sad
+Having a tea party,5.573333333333333,sad
+Using a sandbox,5.573333333333333,sad
+Creating with clay,5.573333333333333,sad
+Building a fort with blankets,5.573333333333333,sad
+"Doing a quiet, structured activity",5.573333333333333,sad
+"Visiting a quiet, scenic place",5.573333333333333,sad
+Engaging in a favorite hobby,5.573333333333333,sad
+Collecting and organizing items,5.573333333333333,sad
+"Doing gentle, guided meditation",5.573333333333333,sad
+Looking through an art book,5.573333333333333,sad
+Making a simple craft,5.573333333333333,sad
+Engaging in a slow-paced video game,5.573333333333333,sad
+Doing a simple woodworking project,5.573333333333333,sad
+Creating a simple electronic project,5.573333333333333,sad
+Baking bread or pastries,5.573333333333333,sad
+Assembling a simple puzzle,5.573333333333333,sad
+"Watching a slow-paced, cheerful cartoon",5.573333333333333,sad
+Participating in a community art project,5.573333333333333,sad
+Making a homemade pizza,5.573333333333333,sad
+Visiting a botanical garden,5.573333333333333,sad
+Going fishing,5.573333333333333,sad
+Attending a quiet matinee movie,5.573333333333333,sad
+Visiting a museum on a quiet day,5.573333333333333,sad
+Participating in a library story hour,5.573333333333333,sad
+Making a photo album,5.573333333333333,sad
+Learning to take pictures with a simple camera,5.573333333333333,sad
+Painting a picture using watercolors,5.573333333333333,sad
+Doing beadwork,5.573333333333333,sad
+Participating in a music therapy session,5.573333333333333,sad
+Engage in vigorous sports,5.573333333333333,angry
+Do martial arts or boxing,5.573333333333333,angry
+Squeeze stress balls,5.573333333333333,angry
+Tear up scrap paper,5.573333333333333,angry
+Stomp on bubble wrap,5.573333333333333,angry
+Draw or scribble out anger,5.573333333333333,angry
+Engage in competitive video games,5.573333333333333,angry
+Do intense physical exercise,5.573333333333333,angry
+Participate in a drumming session,5.573333333333333,angry
+Shout into or sing loudly into a pillow,5.573333333333333,angry
+Construct something complex,5.573333333333333,angry
+Do a high-energy dance,5.573333333333333,angry
+Clean or organize a space aggressively,5.573333333333333,angry
+Gardening with intensity,5.573333333333333,angry
+Chop wood,5.573333333333333,angry
+Bike on a challenging path,5.573333333333333,angry
+Swim laps,5.573333333333333,angry
+Write angry letters,5.573333333333333,angry
+Blow balloons and pop them,5.573333333333333,angry
+Smash old ceramics,5.573333333333333,angry
+Engage in supervised destruction activities,5.573333333333333,angry
+Pound clay or dough,5.573333333333333,angry
+Use a punching bag,5.573333333333333,angry
+Scream in a private space,5.573333333333333,angry
+Run sprints,5.573333333333333,angry
+Hike up a steep hill,5.573333333333333,angry
+Lift weights,5.573333333333333,angry
+Tear old newspapers,5.573333333333333,angry
+Do hard yard work,5.573333333333333,angry
+Engage in a vigorous workout,5.573333333333333,angry
+Participate in a fast-paced sport,5.573333333333333,angry
+Climb safely,5.573333333333333,angry
+Engage in a fast dance or aerobics class,5.573333333333333,angry
+Scrub floors or walls,5.573333333333333,angry
+Wash a car by hand,5.573333333333333,angry
+Play squash or racquetball,5.573333333333333,angry
+Throw darts,5.573333333333333,angry
+Jump on a trampoline,5.573333333333333,angry
+Participate in a loud sports event,5.573333333333333,angry
+Break sticks,5.573333333333333,angry
+Kick a soccer ball against a wall,5.573333333333333,angry
+Draw with charcoals violently,5.573333333333333,angry
+Cut up cardboard,5.573333333333333,angry
+Smash ice cubes,5.573333333333333,angry
+Use a hammer to crush ice,5.573333333333333,angry
+Do heavy gardening,5.573333333333333,angry
+Rip an old t-shirt,5.573333333333333,angry
+Flatten cans for recycling,5.573333333333333,angry
+Shred documents,5.573333333333333,angry
+Do push-ups or sit-ups,5.573333333333333,angry
+Watch comforting videos or movies,5.573333333333333,fear
+Listen to soothing music,5.573333333333333,fear
+Hold a stuffed animal or comfort object,5.573333333333333,fear
+Use a weighted blanket,5.573333333333333,fear
+Engage in deep breathing exercises,5.573333333333333,fear
+Meditate or use guided imagery,5.573333333333333,fear
+Draw what scares them and discuss,5.573333333333333,fear
+Read reassuring stories,5.573333333333333,fear
+"Be in a small, cozy space",5.573333333333333,fear
+Practice slow yoga,5.573333333333333,fear
+Have a trusted person nearby,5.573333333333333,fear
+Engage in favorite calm hobbies,5.573333333333333,fear
+Play with pets,5.573333333333333,fear
+Use sensory tools,5.573333333333333,fear
+Practice aromatherapy with calming scents,5.573333333333333,fear
+Drink warm tea or hot chocolate,5.573333333333333,fear
+Watch slow and calm nature documentaries,5.573333333333333,fear
+Be wrapped in a hug or massaged gently,5.573333333333333,fear
+Look at peaceful nature scenes,5.573333333333333,fear
+Listen to nature sounds,5.573333333333333,fear
+"Take slow, gentle walks in nature",5.573333333333333,fear
+Engage in crafts requiring attention,5.573333333333333,fear
+Sit by a fireplace or campfire,5.573333333333333,fear
+Stargaze,5.573333333333333,fear
+Float in a pool safely,5.573333333333333,fear
+Sit in a rocking chair or hammock,5.573333333333333,fear
+Read books about overcoming fear,5.573333333333333,fear
+Bake cookies or a simple cake,5.573333333333333,fear
+Garden focusing on soft-textured plants,5.573333333333333,fear
+Have a picnic in a protected area,5.573333333333333,fear
+Create art with calming colors,5.573333333333333,fear
+Play therapy sessions,5.573333333333333,fear
+Talk to a counselor or therapist,5.573333333333333,fear
+Watch uplifting cartoons,5.573333333333333,fear
+Group support activities,5.573333333333333,fear
+Do simple puzzles,5.573333333333333,fear
+Organize a room or space,5.573333333333333,fear
+Visit a calm animal farm or zoo,5.573333333333333,fear
+Engage in light photography,5.573333333333333,fear
+Go on a calm boat ride,5.573333333333333,fear
+Learn about stars and planets,5.573333333333333,fear
+Make a simple birdhouse,5.573333333333333,fear
+Do a guided museum tour,5.573333333333333,fear
+"Listen to soft, classical music",5.573333333333333,fear
+Visit a butterfly garden,5.573333333333333,fear
+Go to a quiet beach,5.573333333333333,fear
+Collect and paint rocks,5.573333333333333,fear
+Make simple jewelry,5.573333333333333,fear
+Practice Tai Chi,5.573333333333333,fear
+Watch a slow-paced play or musical,5.573333333333333,fear

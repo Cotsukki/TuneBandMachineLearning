@@ -1,0 +1,3431 @@
+{
+  "ActivityRatings": {
+    "assembling_a_simple_puzzlesad": {
+      "-NwDqc0FDj3zju02yxk7": 7
+    },
+    "attending_a_quiet_matinee_moviesad": {
+      "-NwDpQCSeim2XTJR3qw9": 4,
+      "-NwDr4RqOtqLKB716SC8": 9
+    },
+    "baking_bread_or_pastriessad": {
+      "-NwDr3l5my8hkINJVkJ1": 9
+    },
+    "building_a_fort_with_blanketssad": {
+      "-NwDrOHNbePOTzsImflr": 6
+    },
+    "continue_current_activityhappy": {
+      "-NwDqC4fbKfBR7RUgljX": 9
+    },
+    "cook_or_bake_simple_recipeshappy": {
+      "-NwDp4wqS0-JuEj5q03W": 5
+    },
+    "create_a_scrapbookhappy": {
+      "-NwDqUTEPVRejReh73zy": 3,
+      "-NwDqhw01iKJmBkuAcMK": 6
+    },
+    "create_art_with_calming_colorsfear": {
+      "-NwDoudQ2SKYe0KFxlzT": 8,
+      "-NwDpGaJk-gdS5ci8GRG": 9
+    },
+    "cuddling_with_a_weighted_blanketsad": {
+      "-NwDpUgp0CMAscaiBgmk": 6
+    },
+    "dance_to_upbeat_songshappy": {
+      "-NwDq9FOGnfYzKvRon7D": 9,
+      "-NwDqgSntDOfrF84epYc": 9
+    },
+    "do_a_highenergy_danceangry": {
+      "-NwDrCkFyp9KKM4Ls9YR": 9
+    },
+    "do_hard_yard_workangry": {
+      "-NwDoyF4KHT-YfeupJGD": 1
+    },
+    "do_intense_physical_exerciseangry": {
+      "-NwDpqXgLG0iz_6xs9ZZ": 7,
+      "-NwDq6u4W2FNGKXtft2M": 5
+    },
+    "draw_and_colorhappy": {
+      "-NwDqjcSmCEhdD0on97S": 9
+    },
+    "drink_warm_tea_or_hot_chocolatefear": {
+      "-NwDot3Ui-FAQA6w1fDS": 9,
+      "-NwDqL32cy0FdCubJyW0": 6
+    },
+    "engage_in_supervised_destruction_activitiesangry": {
+      "-NwDqr_bhag2i8FY80ei": 2
+    },
+    "engage_in_vigorous_sportsangry": {
+      "-NwDqqFzrasktk3JS9B9": 2
+    },
+    "engaging_in_slow_sensory_activitiessad": {
+      "-NwDp0TIIUCvaL1EB311": 9,
+      "-NwDr30jvabjPeIAZfMd": 9,
+      "-NwDrIxjiUFjJHG46_yT": 9,
+      "-NwDrMrZFwmNnlB0Ywtr": 2
+    },
+    "gardening_with_intensityangry": {
+      "-NwDqZ_2wMbgiycPBdfc": 3,
+      "-NwDqsPmkVJH7BOs1Mlt": 1
+    },
+    "gardeningsad": {
+      "-NwDpRoZlYo7Nv49J4iG": 2
+    },
+    "go_for_a_fun_ridehappy": {
+      "-NwDpZXWxhe9jIcXLmnU": 9,
+      "-NwDq1VcmTopc8wZu89X": 9
+    },
+    "go_to_a_childrens_museumhappy": {
+      "-NwDpai1vFnsF058fryf": 3
+    },
+    "going_on_a_nature_walkhappy": {
+      "-NwDp45mXn8p4dL1I-7e": 4
+    },
+    "going_to_a_petting_zoohappy": {
+      "-NwDq2Ftf-RyraurmUF8": 9
+    },
+    "having_a_tea_partysad": {
+      "-Nw8sU3WU_LKfvuy4NT8": 5,
+      "-NwDqes3k9jHpiO-Ms4F": 4
+    },
+    "kick_a_soccer_ball_against_a_wallangry": {
+      "-NwDqYNDRGi72ivoa2Gh": 4
+    },
+    "listen_to_nature_soundsfear": {
+      "-NwDpLAjzJG5ILs02_IN": 8
+    },
+    "listen_to_soft_classical_musicfear": {
+      "-NwDqGVrPbv7iMKyAlsp": 9
+    },
+    "making_a_homemade_pizzasad": {
+      "-NwDrKTx1M5gn-DPVLrg": 4
+    },
+    "making_a_photo_albumsad": {
+      "-Nw8s1a-TWv_x-HnyWgI": 1,
+      "-Nw8sEXbBITXwDc7xq53": 5,
+      "-NwDp1NYcv3USLxun54Q": 3
+    },
+    "meditate_or_use_guided_imageryfear": {
+      "-NwDqFzdSpF-PcBbIwm1": 9
+    },
+    "painting_a_picture_using_watercolorssad": {
+      "-NwDqdePsurM_d_nZrTT": 7
+    },
+    "painting_large_canvashappy": {
+      "-NwDq9oAvtR862FBuKrD": 9
+    },
+    "participate_in_a_dance_classhappy": {
+      "-Nw8sacFS1z4U6SMSuB7": 5
+    },
+    "participate_in_a_drumming_sessionangry": {
+      "-NwDpg_1Vobhjdj1R6ve": 2
+    },
+    "participate_in_a_loud_sports_eventangry": {
+      "-NwDq5J3k97436aVY2uN": 2,
+      "-NwDrBUb0gG3g0Ci6l6-": 1
+    },
+    "participate_in_a_treasure_hunthappy": {
+      "-NwDpuqwl6XSE0aqF9Bk": 0
+    },
+    "participate_in_photography_walkhappy": {
+      "-NwDptdAUhhutcNseMnd": 8
+    },
+    "participating_in_a_library_story_hoursad": {
+      "-NwDrJjlNyBi51Ohj4nV": 2
+    },
+    "play_a_favorite_songhappy": {
+      "-NwDp5shvQBtngh45lug": 9
+    },
+    "play_a_musical_instrumenthappy": {
+      "-NwDq0jPceUFcfqz-fjg": 9
+    },
+    "play_pretend_gameshappy": {
+      "-NwDpXVVWsoxp0aE7UEn": 7
+    },
+    "playing_minigolfhappy": {
+      "-NwDqRr1HINTern-_jhO": 2,
+      "-NwDqSjQ_JS8CwtvBlTf": 2
+    },
+    "playing_with_petshappy": {
+      "-NwDpwuYNeuhJrI0FGXM": 9
+    },
+    "practice_tai_chifear": {
+      "-NwDqMPky5gNG5sgXb28": 1
+    },
+    "read_a_favorite_bookhappy": {
+      "-NwDqVZrGNoFq6zza8Bk": 9
+    },
+    "read_books_about_overcoming_fearfear": {
+      "-NwDqHRUd68Sa0SY6PhG": 9
+    },
+    "read_reassuring_storiesfear": {
+      "-NwDqNYFSWIEXHD7HseF": 5
+    },
+    "run_sprintsangry": {
+      "-NwDrE-tqE32UgcQDoPI": 9
+    },
+    "scream_in_a_private_spaceangry": {
+      "-NwDox65uiVoQ8A3Z3zm": 2
+    },
+    "shout_into_or_sing_loudly_into_a_pillowangry": {
+      "-NwDpivy6eP3hSxF7Aft": 3
+    },
+    "smash_ice_cubesangry": {
+      "-NwDq_Oj8OIHIMwKznRU": 1
+    },
+    "stomp_on_bubble_wrapangry": {
+      "-NwDq3nB-kZO908kIUn4": 9
+    },
+    "tear_up_scrap_paperangry": {
+      "-NwDozCd13qW9qTzvfkD": 7
+    },
+    "visiting_a_museum_on_a_quiet_daysad": {
+      "-NwDrNXpNuWVAX_MIZxh": 2
+    },
+    "visiting_a_quiet_scenic_placesad": {
+      "-Nw8fARSk5cYfmWJQont": 2
+    },
+    "watch_a_slowpaced_play_or_musicalfear": {
+      "-NwDovUwhM_LO7L-j4-w": 4
+    },
+    "watch_uplifting_cartoonsfear": {
+      "-NwDpCwaj4uJZdtwGTM9": 7
+    },
+    "watching_a_slowpaced_cheerful_cartoonsad": {
+      "-NwDp2NKJSDg8MtVR__Y": 4
+    }
+  },
+  "disconnects": {
+    "-Nvyzv-wBl7rU3uQW1sS": {
+      "clientId": "::ffff:192.168.55.109:59791",
+      "timestamp": 1713675153531
+    },
+    "-Nvz0g1ZxArMVUT3jDLc": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "timestamp": 1713675616492
+    },
+    "-NvzQXcjs-7LQ35Qs8rq": {
+      "clientId": "::ffff:192.168.55.107:52900",
+      "timestamp": 1713682394753
+    },
+    "-NvzQxgO-AcvVJCRoVq6": {
+      "clientId": "::ffff:192.168.55.107:52901",
+      "timestamp": 1713682504525
+    },
+    "-NvzQxgQ87eM21w_09Zz": {
+      "clientId": "::ffff:192.168.55.107:52902",
+      "timestamp": 1713682504529
+    },
+    "-NvzSq5pzYA4V5PdtZt0": {
+      "clientId": "::ffff:192.168.55.107:50498",
+      "timestamp": 1713682997749
+    },
+    "-NvzSq5rXMlIWubdqHEg": {
+      "clientId": "::ffff:192.168.55.107:52289",
+      "timestamp": 1713682997754
+    },
+    "-NvzSq5tE-dik9xzjkzr": {
+      "clientId": "::ffff:192.168.55.107:52290",
+      "timestamp": 1713682997755
+    },
+    "-NvzSq5v39WMIIYpSAzj": {
+      "clientId": "::ffff:192.168.55.107:52089",
+      "timestamp": 1713682997757
+    },
+    "-NvzSq5xRTcWqwd-XX2W": {
+      "clientId": "::ffff:192.168.55.107:63627",
+      "timestamp": 1713682997758
+    },
+    "-Nw3FdXnAjN2kg-_dPZ1": {
+      "clientId": "::ffff:192.168.55.109:51923",
+      "timestamp": 1713763424495
+    },
+    "-Nw3HZpeXO6uo2-x00p7": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "timestamp": 1713763929513
+    },
+    "-Nw3L-xZMcBVLvmz7FzC": {
+      "clientId": "::ffff:192.168.55.107:64309",
+      "timestamp": 1713764832224
+    },
+    "-Nw3Om6AeKpSvDNvYOUq": {
+      "clientId": "::ffff:192.168.55.109:52125",
+      "timestamp": 1713765819986
+    },
+    "-Nw3S9DqNKqhA2a4klBO": {
+      "clientId": "::ffff:192.168.55.109:52747",
+      "timestamp": 1713767859072
+    },
+    "-Nw3S9DstWos7XM4sJhX": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "timestamp": 1713767859075
+    },
+    "-Nw3T-wD5gb31XaquSis": {
+      "clientId": "::ffff:192.168.55.109:64965",
+      "timestamp": 1713767859077
+    },
+    "-Nw3T-wRolRmlRxhGPkI": {
+      "clientId": "::ffff:192.168.55.109:64970",
+      "timestamp": 1713767859078
+    },
+    "-Nw3T-wUkDMsjZgLiqvt": {
+      "clientId": "::ffff:192.168.55.109:65031",
+      "timestamp": 1713767859080
+    },
+    "-Nw3T-weLJU32yi7fRq4": {
+      "clientId": "::ffff:192.168.55.109:64961",
+      "timestamp": 1713767859081
+    },
+    "-Nw3T-whr4gC96_yE2GV": {
+      "clientId": "::ffff:192.168.55.109:65004",
+      "timestamp": 1713767859083
+    },
+    "-Nw3T-wqx3mCS9t26S8l": {
+      "clientId": "::ffff:192.168.55.109:64982",
+      "timestamp": 1713767859085
+    },
+    "-Nw3T-wwbdZePJgP75qb": {
+      "clientId": "::ffff:192.168.55.109:65016",
+      "timestamp": 1713767859086
+    },
+    "-Nw3T-x3qTxA0Xns9p_F": {
+      "clientId": "::ffff:192.168.55.109:64991",
+      "timestamp": 1713767859087
+    },
+    "-Nw3XvDxRPpMnn9EaVdE": {
+      "clientId": "::ffff:192.168.55.109:60990",
+      "timestamp": 1713768215540
+    },
+    "-Nw3ZHvlJtmIEB-SU-kj": {
+      "clientId": "::ffff:192.168.55.109:58114",
+      "timestamp": 1713768574769
+    },
+    "-Nw3ZNopWl0uA5Rm0JWJ": {
+      "clientId": "::ffff:192.168.55.109:58234",
+      "timestamp": 1713768598904
+    },
+    "-Nw3_MYe7btPXGVBOLo9": {
+      "clientId": "::ffff:192.168.55.107:63344",
+      "timestamp": 1713768861193
+    },
+    "-Nw3_McC6dGsSTuGBX65": {
+      "clientId": "::ffff:192.168.55.107:52999",
+      "timestamp": 1713768861197
+    },
+    "-Nw3_McFtGcV8gFIGOXi": {
+      "clientId": "::ffff:192.168.55.107:63345",
+      "timestamp": 1713768861199
+    },
+    "-Nw3_McHIzO0Kfk2Nhuo": {
+      "clientId": "::ffff:192.168.55.107:63339",
+      "timestamp": 1713768861201
+    },
+    "-Nw3_McJEEMkhpLoi7dR": {
+      "clientId": "::ffff:192.168.55.107:63343",
+      "timestamp": 1713768861202
+    },
+    "-Nw3_McLuPuyLeR8zdkq": {
+      "clientId": "::ffff:192.168.55.107:63340",
+      "timestamp": 1713768861204
+    },
+    "-Nw3_McNLDJ8Qu77yIJ_": {
+      "clientId": "::ffff:192.168.55.107:63341",
+      "timestamp": 1713768861205
+    },
+    "-Nw3_McQdxMKZxczCKGc": {
+      "clientId": "::ffff:192.168.55.107:63342",
+      "timestamp": 1713768861207
+    },
+    "-Nw3_McTdtAItLK3QisB": {
+      "clientId": "::ffff:192.168.55.107:53000",
+      "timestamp": 1713768861209
+    },
+    "-Nw80YibKw-J7xoAf0G3": {
+      "clientId": "::ffff:192.168.55.100:61750",
+      "timestamp": 1713843354616
+    },
+    "-Nw819PkUUL959rXH214": {
+      "clientId": "::ffff:192.168.55.114:58696",
+      "timestamp": 1713843513082
+    },
+    "-Nw822jERAX391xs9UiA": {
+      "clientId": "::ffff:192.168.55.100:62044",
+      "timestamp": 1713843747873
+    },
+    "-Nw8270Zf01JrPe5NbdM": {
+      "clientId": "::ffff:192.168.55.114:53302",
+      "timestamp": 1713843765430
+    },
+    "-Nw8270buEKemfxxHXY7": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "timestamp": 1713843765432
+    },
+    "-Nw82HqOAQVclRkddoNM": {
+      "clientId": "::ffff:192.168.55.114:53303",
+      "timestamp": 1713843809768
+    },
+    "-Nw82I3h6XYxltQz_A2S": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "timestamp": 1713843810693
+    },
+    "-Nw82I5PZ65x_iifFDcy": {
+      "clientId": "::ffff:192.168.55.100:62187",
+      "timestamp": 1713843810795
+    },
+    "-Nw831GaW25NmyNjraHI": {
+      "clientId": "::ffff:192.168.55.114:63087",
+      "timestamp": 1713844004028
+    },
+    "-Nw831GdqzOkVFYUiRmP": {
+      "clientId": "::ffff:192.168.55.114:63789",
+      "timestamp": 1713844004030
+    },
+    "-Nw831GfdTpxp7wSvH8V": {
+      "clientId": "::ffff:192.168.55.114:63788",
+      "timestamp": 1713844004036
+    },
+    "-Nw85rywAWC6UQe-wd8P": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "timestamp": 1713844748284
+    },
+    "-Nw87b9eOiDTvwU-COmF": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "timestamp": 1713845203702
+    },
+    "-Nw8KEoPD9yLao9x1ZlB": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "timestamp": 1713848516032
+    },
+    "-Nw8KIE_ERDuJ3LLBq7o": {
+      "clientId": "::ffff:192.168.55.100:63290",
+      "timestamp": 1713848530047
+    },
+    "-Nw8KIH9B-ZvW5TJg4Yu": {
+      "clientId": "::ffff:192.168.55.100:63300",
+      "timestamp": 1713848530209
+    },
+    "-Nw8KInmSCtlNyeUoWKY": {
+      "clientId": "::ffff:192.168.55.114:62458",
+      "timestamp": 1713848532360
+    },
+    "-Nw8KP0kBIVQ8ldqeeTM": {
+      "clientId": "::ffff:192.168.55.114:62459",
+      "timestamp": 1713848557832
+    },
+    "-Nw8RcbgUwvak6XwOgC-": {
+      "clientId": "::ffff:192.168.55.100:63704",
+      "timestamp": 1713850452657
+    },
+    "-Nw8RcbjH7M3Jx7JDhIM": {
+      "clientId": "::ffff:192.168.55.100:63320",
+      "timestamp": 1713850452662
+    },
+    "-Nw8Rcc-7LLyXxJEFrmX": {
+      "clientId": "::ffff:192.168.55.100:63703",
+      "timestamp": 1713850452695
+    },
+    "-Nw8Ss_rRP3M6Bjx2CHN": {
+      "clientId": "::ffff:192.168.55.114:65132",
+      "timestamp": 1713850780228
+    },
+    "-Nw8Szb5k9lszykZV0G4": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "timestamp": 1713850808979
+    },
+    "-Nw8Szb81_Rjy8Qu6Vty": {
+      "clientId": "::ffff:192.168.55.114:60526",
+      "timestamp": 1713850808981
+    },
+    "-Nw8Szb9jT6C0DCQp_VI": {
+      "clientId": "::ffff:192.168.55.114:53294",
+      "timestamp": 1713850808985
+    },
+    "-Nw8SzbAfn0ciB6ickcb": {
+      "clientId": "::ffff:192.168.55.114:57018",
+      "timestamp": 1713850808987
+    },
+    "-Nw8Yn6Xth02EJdUHjYC": {
+      "clientId": "::ffff:192.168.55.114:55507",
+      "timestamp": 1713852330531
+    },
+    "-Nw8YzffksLxbDQNj3Ks": {
+      "clientId": "::ffff:192.168.55.114:55506",
+      "timestamp": 1713852381999
+    },
+    "-Nw8ZQv7Ss_DzQFuEMXs": {
+      "clientId": "::ffff:192.168.55.116:50670",
+      "timestamp": 1713852497680
+    },
+    "-Nw8ZbrVn4OTVWu9meJZ": {
+      "clientId": "::ffff:192.168.55.116:64033",
+      "timestamp": 1713852546599
+    },
+    "-Nw8ZyV_txabkZDn8K1N": {
+      "clientId": "::ffff:192.168.55.116:64265",
+      "timestamp": 1713852639338
+    },
+    "-Nw8Zyaip_jDXgbz6Q5i": {
+      "clientId": "::ffff:192.168.55.116:60703",
+      "timestamp": 1713852639731
+    },
+    "-Nw8_BY-NN2hstzGpoRw": {
+      "clientId": "::ffff:192.168.55.116:62798",
+      "timestamp": 1713852696841
+    },
+    "-Nw8_T9tDq93HW_3kMBl": {
+      "clientId": "::ffff:192.168.55.116:62799",
+      "timestamp": 1713852769031
+    },
+    "-Nw8bshrO_FBju52r4x7": {
+      "clientId": "::ffff:192.168.55.116:59097",
+      "timestamp": 1713853402066
+    },
+    "-Nw8bsht_7bmAWnr3MkC": {
+      "clientId": "::ffff:192.168.55.116:59099",
+      "timestamp": 1713853402074
+    },
+    "-Nw8bshvy7w6rWb_52n3": {
+      "clientId": "::ffff:192.168.55.116:59098",
+      "timestamp": 1713853402076
+    },
+    "-Nw8c59C4dMzczmSSFT5": {
+      "clientId": "::ffff:192.168.55.116:59100",
+      "timestamp": 1713853457126
+    },
+    "-Nw8cKwulyrW37rmj80I": {
+      "clientId": "::ffff:192.168.55.116:56570",
+      "timestamp": 1713853521813
+    },
+    "-Nw8dzsmTonMGUcjVfOd": {
+      "clientId": "::ffff:192.168.55.100:64452",
+      "timestamp": 1713853955740
+    },
+    "-Nw8eS6XjlOq68qUeZdD": {
+      "clientId": "::ffff:192.168.55.100:64460",
+      "timestamp": 1713854075467
+    },
+    "-Nw8fVM_Tf8iF1SAQdJb": {
+      "clientId": "::ffff:192.168.55.100:64575",
+      "timestamp": 1713854350933
+    },
+    "-Nw8icf--q5IZ3N-eBCz": {
+      "clientId": "::ffff:192.168.55.100:64701",
+      "timestamp": 1713855171394
+    },
+    "-Nw8j-bHtOTNLixVWWpR": {
+      "clientId": "::ffff:192.168.55.100:64865",
+      "timestamp": 1713855269462
+    },
+    "-Nw8lGzaABqEx_nKzGGC": {
+      "clientId": "::ffff:192.168.55.100:64896",
+      "timestamp": 1713855864954
+    },
+    "-Nw8nIzBNR93JN4Cdf1M": {
+      "clientId": "::ffff:192.168.55.100:65251",
+      "timestamp": 1713856397821
+    },
+    "-Nw8nJ3Z0_izUclPXuLN": {
+      "clientId": "::ffff:192.168.55.100:65322",
+      "timestamp": 1713856397823
+    },
+    "-Nw8ojB976F6qI9wEmFQ": {
+      "clientId": "::ffff:192.168.0.17:64247",
+      "timestamp": 1713856770887
+    },
+    "-Nw8pmID73Q7L0SxmIjY": {
+      "clientId": "::ffff:192.168.0.21:50052",
+      "timestamp": 1713857045782
+    },
+    "-Nw8qGjyjcNxTqjJnx6X": {
+      "clientId": "::ffff:192.168.0.17:64248",
+      "timestamp": 1713857174602
+    },
+    "-Nw8sk81exhC7171CgxY": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "timestamp": 1713857823389
+    },
+    "-Nw8sk85ybtrEe7cYzus": {
+      "clientId": "::ffff:192.168.0.21:50703",
+      "timestamp": 1713857823410
+    },
+    "-Nw8ssImdB7rikcHo6N_": {
+      "clientId": "::ffff:192.168.0.21:50709",
+      "timestamp": 1713857856848
+    },
+    "-Nw8xszi9F7KXT353EWY": {
+      "clientId": "::ffff:192.168.0.21:50723",
+      "timestamp": 1713859170421
+    },
+    "-Nw8xt1LDFCq3djyhEg8": {
+      "clientId": "::ffff:192.168.0.21:51054",
+      "timestamp": 1713859170605
+    },
+    "-Nw8y2GTK67f6GbFO8bs": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "timestamp": 1713859212506
+    },
+    "-Nw9-RCQOolfsETGBKlZ": {
+      "clientId": "::ffff:192.168.0.21:51104",
+      "timestamp": 1713859838948
+    },
+    "-Nw9-RCUZaByDZbnhCsF": {
+      "clientId": "::ffff:192.168.0.21:51215",
+      "timestamp": 1713859838957
+    },
+    "-Nw9-RDMYKLujALs_wnh": {
+      "clientId": "::ffff:192.168.0.21:51218",
+      "timestamp": 1713859839006
+    },
+    "-Nw933R3dkxv798v2cJN": {
+      "clientId": "::ffff:192.168.0.17:52696",
+      "timestamp": 1713860790178
+    },
+    "-Nw96rWZnGVQwd5gFhuA": {
+      "clientId": "::ffff:192.168.0.17:63949",
+      "timestamp": 1713861785884
+    },
+    "-Nw96vV_jOpwX0kB_5Zi": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "timestamp": 1713861802208
+    },
+    "-Nw98aRl83LPzcrdx7Sq": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "timestamp": 1713862240238
+    },
+    "-Nw9AGbzdf3-UnRfs0wy": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "timestamp": 1713862679245
+    },
+    "-Nw9BN2eZHJyFtLVQ2I9": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "timestamp": 1713862967737
+    },
+    "-Nw9CSk9x-ipwShsxetF": {
+      "clientId": "::ffff:192.168.0.17:54531",
+      "timestamp": 1713863253225
+    },
+    "-Nw9EFl9vPM0il8pqw0Y": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "timestamp": 1713863724337
+    },
+    "-Nw9EImdbPRmc9Wmr942": {
+      "clientId": "::ffff:192.168.0.17:57260",
+      "timestamp": 1713863736716
+    },
+    "-Nw9GKk8zgHXhjrBEcP6": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "timestamp": 1713864304725
+    },
+    "-Nw9GKkA2MgysIoU5HZx": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "timestamp": 1713864304727
+    },
+    "-NwA8NqswTWAC9TrFAbI": {
+      "clientId": "::ffff:192.168.0.17:60860",
+      "timestamp": 1713878961122
+    },
+    "-NwABCiVqNZH873hnBPk": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "timestamp": 1713879702508
+    },
+    "-NwABCikAeG9UL9-o0Qr": {
+      "clientId": "::ffff:192.168.0.17:60571",
+      "timestamp": 1713879702519
+    },
+    "-NwAEOa0s4Ixmgf1haU0": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "timestamp": 1713880537567
+    },
+    "-NwAFLMSnd9DufJIJObA": {
+      "clientId": "::ffff:192.168.0.17:61175",
+      "timestamp": 1713880786496
+    },
+    "-NwAJbxTByJquE3azhY_": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "timestamp": 1713881907173
+    },
+    "-NwAJiSk7k0Lsygy7u_8": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "timestamp": 1713881933810
+    },
+    "-NwAKHYuS4TxFGkNoVzD": {
+      "clientId": "::ffff:192.168.0.17:62121",
+      "timestamp": 1713882081660
+    },
+    "-NwANGiyE_5Ms4G792aj": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "timestamp": 1713882864727
+    },
+    "-NwANKJbhZ3nCclWEcdV": {
+      "clientId": "::ffff:192.168.0.17:55594",
+      "timestamp": 1713882879423
+    },
+    "-NwANsl0akLkQOPQEqee": {
+      "clientId": "::ffff:192.168.0.21:55728",
+      "timestamp": 1713883024526
+    },
+    "-NwANsn0nVvwIfa82jaN": {
+      "clientId": "::ffff:192.168.0.21:55736",
+      "timestamp": 1713883024631
+    },
+    "-NwAOcxxYchdAQE98bfF": {
+      "clientId": "::ffff:192.168.0.21:55747",
+      "timestamp": 1713883221949
+    },
+    "-NwAOfASWDzNIXDGJwuv": {
+      "clientId": "::ffff:192.168.0.17:51182",
+      "timestamp": 1713883231004
+    },
+    "-NwDbdS1ek4iLdMrRJCz": {
+      "clientId": "::ffff:192.168.68.243:62209",
+      "timestamp": 1713937226184
+    },
+    "-NwDeM6t1o0fLIzyrO6k": {
+      "clientId": "::ffff:192.168.68.230:56768",
+      "timestamp": 1713937936948
+    },
+    "-NwDeM6wFDvhD-DoTi8B": {
+      "clientId": "::ffff:192.168.68.230:56767",
+      "timestamp": 1713937936953
+    },
+    "-NwDeM6y2F0FL2O7jZTE": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "timestamp": 1713937936955
+    },
+    "-NwDokClhN9TRMU84BWW": {
+      "clientId": "::ffff:192.168.68.243:62853",
+      "timestamp": 1713940665002
+    }
+  },
+  "messages": {
+    "-Nvyz0sP_b6JWysnWQO8": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713674920246
+    },
+    "-NvyzKKFfv4MVraZwUU1": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713674999179
+    },
+    "-NvyzMFdPyvEBH2O1M_T": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713675007072
+    },
+    "-Nvz-HF8twkqR8O-k7jA": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675248710
+    },
+    "-Nvz-IOhllQK3X8FmL_w": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675253418
+    },
+    "-Nvz-J_9Qb-ZqhzTStpL": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675258247
+    },
+    "-Nvz-KgaqJoj7gJJrBKz": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "ANGRY",
+      "timestamp": 1713675262819
+    },
+    "-Nvz-N_Qq2zK-Ha9Gi0R": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "SAD",
+      "timestamp": 1713675274648
+    },
+    "-Nvz-Ohu5kICTxYmtQJZ": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "FEAR",
+      "timestamp": 1713675279287
+    },
+    "-Nvz-PgMVYgLRuo5KXkJ": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "HAPPY",
+      "timestamp": 1713675283285
+    },
+    "-Nvz-Qg9VYnaH_-jQJea": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713675287369
+    },
+    "-Nvz-RTjBLfGWbAf_IWe": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "ANGRY",
+      "timestamp": 1713675290604
+    },
+    "-Nvz-SGkq7X1CBagaiIw": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713675293873
+    },
+    "-Nvz-VaL3uGexwNTxy-L": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "ANGRY",
+      "timestamp": 1713675307475
+    },
+    "-Nvz-Vjh-_DNUZ1WyMry": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "HAPPY",
+      "timestamp": 1713675308073
+    },
+    "-Nvz-WmysjfSIZ8m54PE": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713675312381
+    },
+    "-Nvz-XNNv21YEaq7doXq": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "SAD",
+      "timestamp": 1713675314778
+    },
+    "-Nvz-XzKtdJhzR-El24w": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713675317275
+    },
+    "-Nvz-YU1hfRGsgzeEDNZ": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675319308
+    },
+    "-Nvz-_7phlL-QAU0ZysZ": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675326065
+    },
+    "-Nvz-aHbPAayV22dGfrm": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "SAD",
+      "timestamp": 1713675330786
+    },
+    "-Nvz07zIUMw6zuzlqr8t": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713675472917
+    },
+    "-Nvz0AFu0569G0PjOK5P": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "ANGRY",
+      "timestamp": 1713675482252
+    },
+    "-Nvz0BIyttavGVjRQwe3": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "HAPPY",
+      "timestamp": 1713675486532
+    },
+    "-Nvz0C1hqTZEMLbwhJdU": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713675489553
+    },
+    "-Nvz0CV9J8gY55yBgn9L": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "ANGRY",
+      "timestamp": 1713675491405
+    },
+    "-Nvz0CzIhHVD8OcQOlbb": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713675493400
+    },
+    "-Nvz0JVt4eqAFm-nrlgT": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "ANGRY",
+      "timestamp": 1713675520124
+    },
+    "-Nvz0MYG5OABVy7v3cIj": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "ANGRY",
+      "timestamp": 1713675532580
+    },
+    "-Nvz0NNgSFrXn92AcPOz": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "FEAR",
+      "timestamp": 1713675535985
+    },
+    "-Nvz0NxF52KYa6XiJbx1": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "SAD",
+      "timestamp": 1713675538322
+    },
+    "-Nvz0OVt4UdJicU1x9KE": {
+      "clientId": "::ffff:192.168.55.109:59849",
+      "message": "HAPPY",
+      "timestamp": 1713675540603
+    },
+    "-Nvz9NlCOi7v-wQUx4w5": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "ANGRY",
+      "timestamp": 1713677896907
+    },
+    "-Nvz9Vx4pwObFttbC2yQ": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "FEAR",
+      "timestamp": 1713677930434
+    },
+    "-Nvz9XTpT94NBOjVhlKq": {
+      "clientId": "::ffff:192.168.55.107:63510",
+      "message": "SAD",
+      "timestamp": 1713677936691
+    },
+    "-NvzQYwBQX1W8IxY7KE1": {
+      "clientId": "::ffff:192.168.55.107:52901",
+      "message": "HAPPY",
+      "timestamp": 1713682399039
+    },
+    "-NvzQ_FkBpEOYVRyL_qd": {
+      "clientId": "::ffff:192.168.55.107:52901",
+      "message": "SAD",
+      "timestamp": 1713682404450
+    },
+    "-NvzQa-DaCZg3TywLtWm": {
+      "clientId": "::ffff:192.168.55.107:52901",
+      "message": "ANGRY",
+      "timestamp": 1713682407488
+    },
+    "-NvzQaVYewt1ITUygiEa": {
+      "clientId": "::ffff:192.168.55.107:52901",
+      "message": "FEAR",
+      "timestamp": 1713682409558
+    },
+    "-NvzQxgCdQqW6i2vffft": {
+      "clientId": "::ffff:192.168.55.107:50498",
+      "message": "FEAR",
+      "timestamp": 1713682504523
+    },
+    "-NvzQyWcNq6wWPql7C4L": {
+      "clientId": "::ffff:192.168.55.107:50498",
+      "message": "HAPPY",
+      "timestamp": 1713682507937
+    },
+    "-NvzSq5lE3kbPJXB-NaJ": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "ANGRY",
+      "timestamp": 1713682997747
+    },
+    "-NvzSqp6LEOvnkypmx8h": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "SAD",
+      "timestamp": 1713683000709
+    },
+    "-NvzSsapkikhLmGrkPSx": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "HAPPY",
+      "timestamp": 1713683007988
+    },
+    "-NvzSutDZ60hBKonEvJz": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "FEAR",
+      "timestamp": 1713683017356
+    },
+    "-NvzSvTibV02tS0Adwot": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "ANGRY",
+      "timestamp": 1713683019756
+    },
+    "-NvzSvxe6_bddfTIt4sl": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "HAPPY",
+      "timestamp": 1713683021739
+    },
+    "-NvzSwOH9BH8zxZ_hSG2": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "SAD",
+      "timestamp": 1713683023514
+    },
+    "-NvzSwlL5_U5uYugnMll": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "ANGRY",
+      "timestamp": 1713683025045
+    },
+    "-NvzSxHKpM2lIjijyihC": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "FEAR",
+      "timestamp": 1713683027158
+    },
+    "-NvzTjGHDpKpmUtyO8Tr": {
+      "clientId": "::ffff:192.168.55.107:56839",
+      "message": "ANGRY",
+      "timestamp": 1713683231895
+    },
+    "-Nw2vG6ZXHpmFJstuNeV": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "HAPPY",
+      "timestamp": 1713757818887
+    },
+    "-Nw2vI8L3D0MqAtkIUgX": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "ANGRY",
+      "timestamp": 1713757827721
+    },
+    "-Nw2vJfxvet06oBAoJfy": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "HAPPY",
+      "timestamp": 1713757834031
+    },
+    "-Nw2vLDsceu7_z3uLk0s": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "SAD",
+      "timestamp": 1713757840361
+    },
+    "-Nw2vMv-PlTVw0OIfJUe": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "ANGRY",
+      "timestamp": 1713757847288
+    },
+    "-Nw2vT19PDtruPK2MPqv": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "HAPPY",
+      "timestamp": 1713757872318
+    },
+    "-Nw2vU80y0BVcuhxCswW": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "SAD",
+      "timestamp": 1713757876852
+    },
+    "-Nw2vVx5yTMMcZsvG7i8": {
+      "clientId": "::ffff:192.168.55.107:59254",
+      "message": "ANGRY",
+      "timestamp": 1713757884282
+    },
+    "-Nw3F63_SYd8N5g_cBYt": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "message": "ANGRY",
+      "timestamp": 1713763283036
+    },
+    "-Nw3F9vteqCsZb3mZ2Yl": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "message": "HAPPY",
+      "timestamp": 1713763299113
+    },
+    "-Nw3FBbxGN6sJGzkiG3V": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "message": "SAD",
+      "timestamp": 1713763306040
+    },
+    "-Nw3FL5-cVa_MD7EoFIU": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "message": "SAD",
+      "timestamp": 1713763344819
+    },
+    "-Nw3FNbW_Epv2ARu0H-n": {
+      "clientId": "::ffff:192.168.55.107:63425",
+      "message": "ANGRY",
+      "timestamp": 1713763355154
+    },
+    "-Nw3HZnavo-N2j-ERf5s": {
+      "clientId": "::ffff:192.168.55.109:52125",
+      "message": "HAPPY",
+      "timestamp": 1713763929381
+    },
+    "-Nw3H_xMr2jIpRUA5vFa": {
+      "clientId": "::ffff:192.168.55.107:64309",
+      "message": "SAD",
+      "timestamp": 1713763934102
+    },
+    "-Nw3L-xUmxr1HaKtRPiy": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "SAD",
+      "timestamp": 1713764832222
+    },
+    "-Nw3LUqwKDK8JUjWYvE2": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "SAD",
+      "timestamp": 1713764958763
+    },
+    "-Nw3LYmf5iyuLhvrvq_M": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "SAD",
+      "timestamp": 1713764974879
+    },
+    "-Nw3LZsgmc02_qMYOIgh": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "ANGRY",
+      "timestamp": 1713764979355
+    },
+    "-Nw3L_mec0MR1l2gCTsM": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "SAD",
+      "timestamp": 1713764983069
+    },
+    "-Nw3LbrdjUrztF-tzLM4": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "ANGRY",
+      "timestamp": 1713764991598
+    },
+    "-Nw3Ll2HhA45OvnW5xqP": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "HAPPY",
+      "timestamp": 1713765029188
+    },
+    "-Nw3MDxfsMG7h6CsNG_H": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "HAPPY",
+      "timestamp": 1713765151711
+    },
+    "-Nw3MGcVrqE8lZvIwst8": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "HAPPY",
+      "timestamp": 1713765162643
+    },
+    "-Nw3NLoE6a7vsYHculyy": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "HAPPY",
+      "timestamp": 1713765446026
+    },
+    "-Nw3NObRvxZvXuNv0iBh": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "HAPPY",
+      "timestamp": 1713765457493
+    },
+    "-Nw3QVaP86X2iwVSWLYo": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "ANGRY",
+      "timestamp": 1713766272553
+    },
+    "-Nw3QY9jidkCo-obXyMZ": {
+      "clientId": "::ffff:192.168.55.107:60027",
+      "message": "FEAR",
+      "timestamp": 1713766283080
+    },
+    "-Nw3TAIGagCyzPfsbw3o": {
+      "clientId": "::ffff:192.168.55.109:60990",
+      "message": "HAPPY",
+      "timestamp": 1713767859089
+    },
+    "-Nw3YLnNV0yduS7O5YqJ": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "ANGRY",
+      "timestamp": 1713768328467
+    },
+    "-Nw3YoLseTFnLceQ-IlO": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "SAD",
+      "timestamp": 1713768449523
+    },
+    "-Nw3Yq4V1f0ZcCwPfGP_": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "HAPPY",
+      "timestamp": 1713768456604
+    },
+    "-Nw3ZKYVmJ0LSpl3xYuj": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "FEAR",
+      "timestamp": 1713768585504
+    },
+    "-Nw3ZL2FVHV72McG9F3C": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "HAPPY",
+      "timestamp": 1713768587541
+    },
+    "-Nw3ZLgR_a3V8evSlSU-": {
+      "clientId": "::ffff:192.168.55.107:64500",
+      "message": "SAD",
+      "timestamp": 1713768590169
+    },
+    "-Nw7yrX4_tA3oq63Pxj4": {
+      "clientId": "::ffff:192.168.55.100:61750",
+      "message": "HAPPY",
+      "timestamp": 1713842649359
+    },
+    "-Nw7zGopdrUVWbcBTXNP": {
+      "clientId": "::ffff:192.168.55.114:58696",
+      "message": "ANGRY",
+      "timestamp": 1713842756976
+    },
+    "-Nw8-VguIfR_EgLX24yk": {
+      "clientId": "::ffff:192.168.55.114:58696",
+      "message": "FEAR",
+      "timestamp": 1713843080059
+    },
+    "-Nw80cA7E1u6ytITnNKN": {
+      "clientId": "::ffff:192.168.55.114:58696",
+      "message": "FEAR",
+      "timestamp": 1713843372831
+    },
+    "-Nw80gRjZCc1Z_riUCN0": {
+      "clientId": "::ffff:192.168.55.114:58696",
+      "message": "SAD",
+      "timestamp": 1713843390326
+    },
+    "-Nw819PKCcpxzWiqlcDK": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "ANGRY",
+      "timestamp": 1713843513055
+    },
+    "-Nw81EMvp7GsfuRpOBgm": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "FEAR",
+      "timestamp": 1713843533382
+    },
+    "-Nw81GA7WyWyqcDdV7w7": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "HAPPY",
+      "timestamp": 1713843540757
+    },
+    "-Nw81JaCEIYMs5xvhpRl": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "ANGRY",
+      "timestamp": 1713843554776
+    },
+    "-Nw81L6IoPCAnk23Q1V7": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "FEAR",
+      "timestamp": 1713843560990
+    },
+    "-Nw81MF5YcyP-FS3bwqk": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "HAPPY",
+      "timestamp": 1713843565649
+    },
+    "-Nw81UIlWRhyN8ESH1Xm": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "SAD",
+      "timestamp": 1713843598652
+    },
+    "-Nw81VZwHOU2Pjcho4gG": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "SAD",
+      "timestamp": 1713843603851
+    },
+    "-Nw81X5Mm9fZFYu4YBHo": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "HAPPY",
+      "timestamp": 1713843610083
+    },
+    "-Nw81YdRLh1xqOTxi3BL": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "FEAR",
+      "timestamp": 1713843616425
+    },
+    "-Nw81_TNt5OS9diKQB8F": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "SAD",
+      "timestamp": 1713843623909
+    },
+    "-Nw81bf8fOT_Hp18eXPf": {
+      "clientId": "::ffff:192.168.55.114:59109",
+      "message": "ANGRY",
+      "timestamp": 1713843632918
+    },
+    "-Nw826im1q8TFTE3MQgx": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "message": "SAD",
+      "timestamp": 1713843764232
+    },
+    "-Nw8279WtjSxTqohRsK4": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "message": "SAD",
+      "timestamp": 1713843766001
+    },
+    "-Nw829DB2bT3QswK3qGQ": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "message": "HAPPY",
+      "timestamp": 1713843774426
+    },
+    "-Nw829usZW-J3OZgziSq": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "message": "HAPPY",
+      "timestamp": 1713843777288
+    },
+    "-Nw82Ab_w4ruXzi32Xxv": {
+      "clientId": "::ffff:192.168.55.100:62170",
+      "message": "HAPPY",
+      "timestamp": 1713843780147
+    },
+    "-Nw82I3cNa0dGwB96RFF": {
+      "clientId": "::ffff:192.168.55.100:62187",
+      "message": "HAPPY",
+      "timestamp": 1713843810680
+    },
+    "-Nw82JVbw0EGx4oYGIu-": {
+      "clientId": "::ffff:192.168.55.100:62192",
+      "message": "HAPPY",
+      "timestamp": 1713843816568
+    },
+    "-Nw82LlVdmc0icnispqn": {
+      "clientId": "::ffff:192.168.55.114:63087",
+      "message": "ANGRY",
+      "timestamp": 1713843825853
+    },
+    "-Nw82OMtQN0lVM83widr": {
+      "clientId": "::ffff:192.168.55.114:63087",
+      "message": "HAPPY",
+      "timestamp": 1713843836490
+    },
+    "-Nw831GWv2hOTZCt7XAZ": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "FEAR",
+      "timestamp": 1713844004023
+    },
+    "-Nw832upHJzSdbrVG4pL": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "HAPPY",
+      "timestamp": 1713844010765
+    },
+    "-Nw834WpFPciO6f_y0jb": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "SAD",
+      "timestamp": 1713844017358
+    },
+    "-Nw838TLj-s2Pjt-4koJ": {
+      "clientId": "::ffff:192.168.55.100:62192",
+      "message": "HAPPY",
+      "timestamp": 1713844033514
+    },
+    "-Nw83D24Os7fZXNsVwjJ": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "ANGRY",
+      "timestamp": 1713844052250
+    },
+    "-Nw83F5IAKRnZBhz5HNG": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "ANGRY",
+      "timestamp": 1713844060650
+    },
+    "-Nw83IrrBLJZ2HpeDrQi": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "ANGRY",
+      "timestamp": 1713844076114
+    },
+    "-Nw83Kf3AciNoTYMXBmr": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "FEAR",
+      "timestamp": 1713844083485
+    },
+    "-Nw83MiFxR8DwEfnmSW-": {
+      "clientId": "::ffff:192.168.55.114:56876",
+      "message": "SAD",
+      "timestamp": 1713844091883
+    },
+    "-Nw83p1okAfLpA2x-Dzo": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "FEAR",
+      "timestamp": 1713844212061
+    },
+    "-Nw83qe3ITSENIZ8IN1m": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "HAPPY",
+      "timestamp": 1713844218553
+    },
+    "-Nw83s_G6f52Djs01PU5": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "HAPPY",
+      "timestamp": 1713844226437
+    },
+    "-Nw83uKGM8r_1HtP6N48": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "FEAR",
+      "timestamp": 1713844233605
+    },
+    "-Nw83vxG9H5eTLWbJInk": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "SAD",
+      "timestamp": 1713844240262
+    },
+    "-Nw83xX28MbgS9JG7wNk": {
+      "clientId": "::ffff:192.168.55.114:49789",
+      "message": "ANGRY",
+      "timestamp": 1713844246711
+    },
+    "-Nw85ryo_J06roaxOlX4": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713844748276
+    },
+    "-Nw85yVY4FWYJ2_wplUe": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "message": "HAPPY",
+      "timestamp": 1713844775013
+    },
+    "-Nw85zvcITDIfrILR-Gr": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "message": "SAD",
+      "timestamp": 1713844780839
+    },
+    "-Nw86-e8abSXGYuccc-4": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "message": "ANGRY",
+      "timestamp": 1713844783816
+    },
+    "-Nw860UptHv_xgEQAjRp": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "message": "FEAR",
+      "timestamp": 1713844787259
+    },
+    "-Nw8634YjcjwD8UxkfB5": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "HAPPY",
+      "timestamp": 1713844797861
+    },
+    "-Nw86r-aiFGhOl-WY2-N": {
+      "clientId": "::ffff:192.168.55.100:62557",
+      "message": "ANGRY",
+      "timestamp": 1713845006447
+    },
+    "-Nw888lwTSl8yK_8M7mP": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "SAD",
+      "timestamp": 1713845345486
+    },
+    "-Nw88AP5R3Ypoc3AuHxJ": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713845352147
+    },
+    "-Nw88Co1Ib0AGP5hgz_9": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "HAPPY",
+      "timestamp": 1713845362004
+    },
+    "-Nw8BhvDP706vzBalV-R": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846280003
+    },
+    "-Nw8CAUwl0eFwsx5QbSR": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846401124
+    },
+    "-Nw8CDwC1NrzU6tq1UOl": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "SAD",
+      "timestamp": 1713846415226
+    },
+    "-Nw8CFc9Ze5Oe0m4OKCL": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "ANGRY",
+      "timestamp": 1713846422127
+    },
+    "-Nw8CHBav8__Uwe_N4Ze": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846428557
+    },
+    "-Nw8Din1zz0nRm9TsstZ": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846807862
+    },
+    "-Nw8Dpy1dTr85CxpHdGQ": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846837235
+    },
+    "-Nw8EKe8_i0-YHsitfSX": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713846967036
+    },
+    "-Nw8EZvCnjVGuRc9i-tc": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "ANGRY",
+      "timestamp": 1713847029570
+    },
+    "-Nw8EfPWLO5Cs-Ddntgh": {
+      "clientId": "::ffff:192.168.55.114:51008",
+      "message": "FEAR",
+      "timestamp": 1713847056152
+    },
+    "-Nw8KABIybPBh-O_aZce": {
+      "clientId": "::ffff:192.168.55.100:63290",
+      "message": "HAPPY",
+      "timestamp": 1713848497072
+    },
+    "-Nw8KCorSj3FRMpl3bfm": {
+      "clientId": "::ffff:192.168.55.100:63290",
+      "message": "SAD",
+      "timestamp": 1713848507862
+    },
+    "-Nw8KIEVa0g6mnyXKaLx": {
+      "clientId": "::ffff:192.168.55.114:62459",
+      "message": "ANGRY",
+      "timestamp": 1713848530039
+    },
+    "-Nw8KP0bL8e_tOpfWivC": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "SAD",
+      "timestamp": 1713848557824
+    },
+    "-Nw8KQqdlZI3B9d6ESj5": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "HAPPY",
+      "timestamp": 1713848565312
+    },
+    "-Nw8KVijb99TyhIyNsrN": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "ANGRY",
+      "timestamp": 1713848585290
+    },
+    "-Nw8Kcj9nh6EdyxwduxE": {
+      "clientId": "::ffff:192.168.55.100:63320",
+      "message": "FEAR",
+      "timestamp": 1713848618083
+    },
+    "-Nw8KdpOfVEXDlX-pGvq": {
+      "clientId": "::ffff:192.168.55.100:63320",
+      "message": "HAPPY",
+      "timestamp": 1713848622580
+    },
+    "-Nw8KeZmOiy9-63D4v_B": {
+      "clientId": "::ffff:192.168.55.100:63320",
+      "message": "SAD",
+      "timestamp": 1713848625610
+    },
+    "-Nw8Kfg_KqWiSXe0XKt3": {
+      "clientId": "::ffff:192.168.55.100:63320",
+      "message": "ANGRY",
+      "timestamp": 1713848630206
+    },
+    "-Nw8Sc0KsrVwxw4dDUSt": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "ANGRY",
+      "timestamp": 1713850712351
+    },
+    "-Nw8SdSyYwFULs3RrqJi": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "FEAR",
+      "timestamp": 1713850718280
+    },
+    "-Nw8SfL2oMfZEl1KujBw": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "SAD",
+      "timestamp": 1713850725966
+    },
+    "-Nw8SgQlcYy_RJPiIeZo": {
+      "clientId": "::ffff:192.168.55.114:62460",
+      "message": "HAPPY",
+      "timestamp": 1713850730430
+    },
+    "-Nw8Szb0nv3WMs2Wrd3O": {
+      "clientId": "::ffff:192.168.55.114:55507",
+      "message": "ANGRY",
+      "timestamp": 1713850808972
+    },
+    "-Nw8YiUcQpyNokNdf4Dg": {
+      "clientId": "::ffff:192.168.55.116:50670",
+      "message": "FEAR",
+      "timestamp": 1713852311591
+    },
+    "-Nw8ZQv2RWdeBf2VLxpo": {
+      "clientId": "::ffff:192.168.55.116:64033",
+      "message": "FEAR",
+      "timestamp": 1713852497673
+    },
+    "-Nw8ZTxJNkWdKkft2R-i": {
+      "clientId": "::ffff:192.168.55.116:64033",
+      "message": "FEAR",
+      "timestamp": 1713852510103
+    },
+    "-Nw8ZbrNF7SFYjBqVh0h": {
+      "clientId": "::ffff:192.168.55.116:64265",
+      "message": "ANGRY",
+      "timestamp": 1713852546588
+    },
+    "-Nw8ZyRw6DIYhAJv0PL2": {
+      "clientId": "::ffff:192.168.55.116:62798",
+      "message": "ANGRY",
+      "timestamp": 1713852639108
+    },
+    "-Nw8_-qGQKTgiNiVQthm": {
+      "clientId": "::ffff:192.168.55.116:62798",
+      "message": "FEAR",
+      "timestamp": 1713852648919
+    },
+    "-Nw8_BXvInF2VSRhNCB0": {
+      "clientId": "::ffff:192.168.55.116:62799",
+      "message": "ANGRY",
+      "timestamp": 1713852696835
+    },
+    "-Nw8_T9W7vPAh9TfdeiN": {
+      "clientId": "::ffff:192.168.55.116:59097",
+      "message": "ANGRY",
+      "timestamp": 1713852769010
+    },
+    "-Nw8bshmnrPHVZruJb4Q": {
+      "clientId": "::ffff:192.168.55.116:59100",
+      "message": "FEAR",
+      "timestamp": 1713853402060
+    },
+    "-Nw8c593__FBnSRFBsxv": {
+      "clientId": "::ffff:192.168.55.116:56570",
+      "message": "HAPPY",
+      "timestamp": 1713853457119
+    },
+    "-Nw8cKwljTNgOqIS6hIV": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "HAPPY",
+      "timestamp": 1713853521806
+    },
+    "-Nw8cPxZEdKiKGz5K120": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713853542338
+    },
+    "-Nw8dzkWSGAFPw8UwBFt": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713853955206
+    },
+    "-Nw8e0xVLsemyRqULFmA": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "ANGRY",
+      "timestamp": 1713853964228
+    },
+    "-Nw8eJppKvosP8tDftUE": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854041565
+    },
+    "-Nw8eX1JrxYyrlHcNLjC": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854095617
+    },
+    "-Nw8e_fhdjor9WZCRUzp": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "HAPPY",
+      "timestamp": 1713854110550
+    },
+    "-Nw8edtcNMCHFpS-5O4T": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "ANGRY",
+      "timestamp": 1713854127825
+    },
+    "-Nw8egdS92ZPNSg6Ymx8": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "FEAR",
+      "timestamp": 1713854139089
+    },
+    "-Nw8eiVmm4rtviM86Lji": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854146718
+    },
+    "-Nw8ekcRmbumA9lOrbpY": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "HAPPY",
+      "timestamp": 1713854155406
+    },
+    "-Nw8f02Cwo1aWUw9f1fZ": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854222660
+    },
+    "-Nw8f8vMwH6xcsApUg3o": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854259015
+    },
+    "-Nw8fLhcFcsnE6CphO0L": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713854311386
+    },
+    "-Nw8fcsJMxmlKa316UXX": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "FEAR",
+      "timestamp": 1713854385796
+    },
+    "-Nw8fwcjg9RmACqed2zK": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "FEAR",
+      "timestamp": 1713854466723
+    },
+    "-Nw8iNqr9j75SycoMYdL": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "FEAR",
+      "timestamp": 1713855106616
+    },
+    "-Nw8igZ6eqY8iFP6la3c": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "SAD",
+      "timestamp": 1713855187343
+    },
+    "-Nw8iml5HnPa1npv2Uzu": {
+      "clientId": "::ffff:192.168.55.116:56571",
+      "message": "FEAR",
+      "timestamp": 1713855212744
+    },
+    "-Nw8lfjYRSEHSlqIE8jk": {
+      "clientId": "::ffff:192.168.55.116:54587",
+      "message": "ANGRY",
+      "timestamp": 1713855970643
+    },
+    "-Nw8lhQ_OMlnnmhJ6f-5": {
+      "clientId": "::ffff:192.168.55.116:54587",
+      "message": "HAPPY",
+      "timestamp": 1713855977249
+    },
+    "-Nw8oaonLBBIBzh1QInP": {
+      "clientId": "::ffff:192.168.0.17:64247",
+      "message": "SAD",
+      "timestamp": 1713856736387
+    },
+    "-Nw8obyFvduVoLf5BMCW": {
+      "clientId": "::ffff:192.168.0.17:64247",
+      "message": "SAD",
+      "timestamp": 1713856741325
+    },
+    "-Nw8ofKiF2kkKSfZ_-7q": {
+      "clientId": "::ffff:192.168.0.17:64247",
+      "message": "HAPPY",
+      "timestamp": 1713856755111
+    },
+    "-Nw8ojAxnIhEvP7lDbmB": {
+      "clientId": "::ffff:192.168.0.17:64248",
+      "message": "SAD",
+      "timestamp": 1713856770882
+    },
+    "-Nw8omUFcyXBrSp28kz1": {
+      "clientId": "::ffff:192.168.0.17:64248",
+      "message": "SAD",
+      "timestamp": 1713856784392
+    },
+    "-Nw8qGjunPc0v_6trJG0": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857174594
+    },
+    "-Nw8qS8uXFJ1rxTflq15": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857221311
+    },
+    "-Nw8qaPYu4F88UZmYDDh": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857259241
+    },
+    "-Nw8qbw324evfxwnKT1E": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857265480
+    },
+    "-Nw8qeCmi9Tam2UH9b2C": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857274811
+    },
+    "-Nw8qfxFceKGsx7BUvs6": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713857281941
+    },
+    "-Nw8rGtvdO66bSphvOXk": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857437391
+    },
+    "-Nw8rV12IkzJoOyQkOgD": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "HAPPY",
+      "timestamp": 1713857495256
+    },
+    "-Nw8rVZ13xVhhfXel0-J": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "HAPPY",
+      "timestamp": 1713857497427
+    },
+    "-Nw8rW1tUNvH814VpN69": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "SAD",
+      "timestamp": 1713857499411
+    },
+    "-Nw8rWteTdQVBcUoG9OL": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "ANGRY",
+      "timestamp": 1713857502899
+    },
+    "-Nw8rXpRa1QKFYdZvlhx": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "FEAR",
+      "timestamp": 1713857506733
+    },
+    "-Nw8rZN2aSFzIqYBwZEz": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "HAPPY",
+      "timestamp": 1713857513039
+    },
+    "-Nw8ra9P1JVNiYFgKKhY": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "SAD",
+      "timestamp": 1713857520711
+    },
+    "-Nw8rfSlzKVXtIPa8Zuy": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "FEAR",
+      "timestamp": 1713857542081
+    },
+    "-Nw8rvgYQ9F5cVV47ufT": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "HAPPY",
+      "timestamp": 1713857608568
+    },
+    "-Nw8rwgumViLVGuwPmlp": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "FEAR",
+      "timestamp": 1713857613003
+    },
+    "-Nw8ryOGozlj3hUZIjji": {
+      "clientId": "::ffff:192.168.0.21:50556",
+      "message": "FEAR",
+      "timestamp": 1713857619616
+    },
+    "-Nw8s-MSLX4wjQUMw2jo": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857627698
+    },
+    "-Nw8sYvOMkIA2Ezcsgme": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857773353
+    },
+    "-Nw8sacF5xdUlwRSsrxU": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857784436
+    },
+    "-Nw8seAoKO9OIhutblmh": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857798987
+    },
+    "-Nw8sfRwSy7Qm5tcmxRJ": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857804176
+    },
+    "-Nw8sma4lsjjhJ5yU5FB": {
+      "clientId": "::ffff:192.168.0.21:50709",
+      "message": "HAPPY",
+      "timestamp": 1713857833445
+    },
+    "-Nw8snd9BC3DKSTwLJM2": {
+      "clientId": "::ffff:192.168.0.21:50709",
+      "message": "SAD",
+      "timestamp": 1713857837740
+    },
+    "-Nw8ssIiqHN7nTaw6fBp": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713857856846
+    },
+    "-Nw8suMCsWxcKkvtN_oJ": {
+      "clientId": "::ffff:192.168.0.21:50723",
+      "message": "ANGRY",
+      "timestamp": 1713857865249
+    },
+    "-Nw8sxqOEKH_B25wnnGB": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857879544
+    },
+    "-Nw8tDOrDrh8mUML4_HA": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857947340
+    },
+    "-Nw8tGIC3jPG8u6zLZuY": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857959202
+    },
+    "-Nw8tKFK1F5VyZv9iCRP": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713857975404
+    },
+    "-Nw8tPz9coI43Qe5ngVz": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713857998889
+    },
+    "-Nw8tSVC9uQB8CE_a1sX": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858009196
+    },
+    "-Nw8tpvh3TMwVAWuSSBL": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858109260
+    },
+    "-Nw8u93cJKcNoN8qbRfB": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713858191759
+    },
+    "-Nw8uA3ZUyVo_Y5G5SCW": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858195842
+    },
+    "-Nw8uAqtEKezyAzNhg7q": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858199059
+    },
+    "-Nw8uBetZ4pdQutSAEg0": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713858202387
+    },
+    "-Nw8uDXfcrxuekNn_9R4": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713858210082
+    },
+    "-Nw8uEQKsTL3IcFbN-J2": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858213679
+    },
+    "-Nw8uFAwmV4kqyLf7skG": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713858216797
+    },
+    "-Nw8uFxwRAQK3LlI0tfN": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713858220000
+    },
+    "-Nw8uGaDPRuAm7wlmpqL": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858222570
+    },
+    "-Nw8uH8Fp3FNTvgd7nFN": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858224810
+    },
+    "-Nw8uHvDtcpNp_0cRVfM": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713858228011
+    },
+    "-Nw8uITex3lMgTUksYjW": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713858230284
+    },
+    "-Nw8uJCkkVbH1ZpYodSO": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858233292
+    },
+    "-Nw8uJpV4r1p9CszqhMN": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858236315
+    },
+    "-Nw8uKVLZ_YsxAlJvqyw": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858238579
+    },
+    "-Nw8uTUfnR02Oir70suM": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858275417
+    },
+    "-Nw8un64MQYBZb7HqQqs": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "HAPPY",
+      "timestamp": 1713858359855
+    },
+    "-Nw8uo4Un9lopsvbr245": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858363838
+    },
+    "-Nw8upC7HXcgDXk3xf7I": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713858368439
+    },
+    "-Nw8upvB1TFQybstbj5M": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "FEAR",
+      "timestamp": 1713858371385
+    },
+    "-Nw8uq_4272Y2FeRuXc9": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "ANGRY",
+      "timestamp": 1713858374053
+    },
+    "-Nw8v4puVRtCPpBcCYBq": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858436574
+    },
+    "-Nw8v90yd-G4csW-kXxs": {
+      "clientId": "::ffff:192.168.0.17:60333",
+      "message": "SAD",
+      "timestamp": 1713858453743
+    },
+    "-Nw8xszenAm7OF1WggDO": {
+      "clientId": "::ffff:192.168.0.21:51054",
+      "message": "HAPPY",
+      "timestamp": 1713859170419
+    },
+    "-Nw9-RCLLPZ0vLivu8Ps": {
+      "clientId": "::ffff:192.168.0.21:51218",
+      "message": "SAD",
+      "timestamp": 1713859838940
+    },
+    "-Nw9-SjYPG-O4os1TjKO": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "HAPPY",
+      "timestamp": 1713859845222
+    },
+    "-Nw9-TEthBsRuQVLfX41": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "HAPPY",
+      "timestamp": 1713859847301
+    },
+    "-Nw933QyGMoHI23DKIPA": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "HAPPY",
+      "timestamp": 1713860790171
+    },
+    "-Nw93CGs_80SUiu6yGqn": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "HAPPY",
+      "timestamp": 1713860826394
+    },
+    "-Nw93b9eCG1yG7-EYvcv": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "SAD",
+      "timestamp": 1713860932426
+    },
+    "-Nw93h2LklP5LRFPgSUz": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "SAD",
+      "timestamp": 1713860956532
+    },
+    "-Nw93wHaPox3tqRUFx4_": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "SAD",
+      "timestamp": 1713861018960
+    },
+    "-Nw94-kp530J1mM3twWz": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "FEAR",
+      "timestamp": 1713861037277
+    },
+    "-Nw946rDIjeKDpUmRbLz": {
+      "clientId": "::ffff:192.168.0.17:58430",
+      "message": "SAD",
+      "timestamp": 1713861066352
+    },
+    "-Nw96bGb9foz-_TrHdVV": {
+      "clientId": "::ffff:192.168.0.17:63949",
+      "message": "ANGRY",
+      "timestamp": 1713861719324
+    },
+    "-Nw96gFsXVx6AGlVtGVE": {
+      "clientId": "::ffff:192.168.0.17:63949",
+      "message": "SAD",
+      "timestamp": 1713861739756
+    },
+    "-Nw96rWUmvlqTHzo4GPh": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "message": "ANGRY",
+      "timestamp": 1713861785876
+    },
+    "-Nw96tWvzZBwJk-sP-D2": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "message": "HAPPY",
+      "timestamp": 1713861794092
+    },
+    "-Nw972kGfRaEJRWL8PDm": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "message": "HAPPY",
+      "timestamp": 1713861835987
+    },
+    "-Nw973qnERc52am6Hsxl": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "message": "ANGRY",
+      "timestamp": 1713861840488
+    },
+    "-Nw974aKE-3IWDhENO8E": {
+      "clientId": "::ffff:192.168.0.17:63950",
+      "message": "FEAR",
+      "timestamp": 1713861843576
+    },
+    "-Nw98aRdff8FFOSmiuu3": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "FEAR",
+      "timestamp": 1713862240231
+    },
+    "-Nw98bZIDATs9rxMygI0": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "SAD",
+      "timestamp": 1713862244816
+    },
+    "-Nw98e0i_MaTMYhYZ6Ty": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "SAD",
+      "timestamp": 1713862254893
+    },
+    "-Nw98lbBfJs_jq5C8PbV": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "ANGRY",
+      "timestamp": 1713862285966
+    },
+    "-Nw98u9SXyz8cE-r_eqB": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "SAD",
+      "timestamp": 1713862320988
+    },
+    "-Nw98wEBgRcXsA82Bz3s": {
+      "clientId": "::ffff:192.168.0.17:24872",
+      "message": "ANGRY",
+      "timestamp": 1713862329490
+    },
+    "-Nw9AGbrfBeAEnfFDOGu": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "FEAR",
+      "timestamp": 1713862679232
+    },
+    "-Nw9AJpAzxjeJcKJM4n1": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "FEAR",
+      "timestamp": 1713862692372
+    },
+    "-Nw9AP8vhDv3A9WBCMk7": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "ANGRY",
+      "timestamp": 1713862714183
+    },
+    "-Nw9ARdTBo12oGULis5p": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "SAD",
+      "timestamp": 1713862724391
+    },
+    "-Nw9ARxHuvSc3rG3PTCs": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "HAPPY",
+      "timestamp": 1713862725662
+    },
+    "-Nw9AXfMTystOw97dsrJ": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "FEAR",
+      "timestamp": 1713862749089
+    },
+    "-Nw9AhkXgqXiOcdetrGq": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "SAD",
+      "timestamp": 1713862794480
+    },
+    "-Nw9AiTbn_HDirU7GgsJ": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "SAD",
+      "timestamp": 1713862797427
+    },
+    "-Nw9Aq5FcVipkzmIQmS7": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "HAPPY",
+      "timestamp": 1713862828636
+    },
+    "-Nw9AwQmpFsHHtgI6gTh": {
+      "clientId": "::ffff:192.168.0.21:51234",
+      "message": "HAPPY",
+      "timestamp": 1713862854610
+    },
+    "-Nw9B2fFbDtBs4s8bY2E": {
+      "clientId": "::ffff:192.168.0.17:61866",
+      "message": "SAD",
+      "timestamp": 1713862884254
+    },
+    "-Nw9BN2Ts6lODiit6MzX": {
+      "clientId": "::ffff:192.168.0.17:54531",
+      "message": "HAPPY",
+      "timestamp": 1713862967727
+    },
+    "-Nw9CSk2Z3CMV1xrd2Lu": {
+      "clientId": "::ffff:192.168.0.17:57260",
+      "message": "SAD",
+      "timestamp": 1713863253212
+    },
+    "-Nw9Cq5iC9qKhLiTPIpb": {
+      "clientId": "::ffff:192.168.0.17:57260",
+      "message": "FEAR",
+      "timestamp": 1713863353044
+    },
+    "-Nw9Dq6HgKqlD3kXw5m3": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "FEAR",
+      "timestamp": 1713863615152
+    },
+    "-Nw9DsujAsmyv4lnz10C": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "ANGRY",
+      "timestamp": 1713863626642
+    },
+    "-Nw9DvV50P4z-AWn-S9O": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "HAPPY",
+      "timestamp": 1713863637233
+    },
+    "-Nw9DwWjSL0bpxZJuGx5": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "SAD",
+      "timestamp": 1713863641433
+    },
+    "-Nw9DxL0sUlw-aZ_jrlw": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "ANGRY",
+      "timestamp": 1713863644772
+    },
+    "-Nw9DxuD2Sa7Gpqi98JI": {
+      "clientId": "::ffff:192.168.0.17:27609",
+      "message": "FEAR",
+      "timestamp": 1713863647087
+    },
+    "-Nw9EFky7_C66ppS1ejz": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863724323
+    },
+    "-Nw9EHjKpwMoBP1lb0_n": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "SAD",
+      "timestamp": 1713863732409
+    },
+    "-Nw9EKBla_kUL1o3cd0W": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863742507
+    },
+    "-Nw9EM6fMMqQB1mY_tnf": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "ANGRY",
+      "timestamp": 1713863750357
+    },
+    "-Nw9EVMPZWIWSlD5Vjxf": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "ANGRY",
+      "timestamp": 1713863788227
+    },
+    "-Nw9EXHftyCVoJ6Cz_1I": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863796113
+    },
+    "-Nw9EfFg1iZFWO_I230R": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863832850
+    },
+    "-Nw9EhErnNhCaYKqIm3-": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "ANGRY",
+      "timestamp": 1713863840991
+    },
+    "-Nw9Ei2doj3cyXpnWbEo": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "SAD",
+      "timestamp": 1713863844304
+    },
+    "-Nw9EjX-nz5REZL5erzl": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "HAPPY",
+      "timestamp": 1713863850342
+    },
+    "-Nw9EoKf9UhWzrvLaTt5": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863870044
+    },
+    "-Nw9EpnCHCf9lxd49HcC": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "ANGRY",
+      "timestamp": 1713863876019
+    },
+    "-Nw9Eqog00kH0tk_X51y": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "SAD",
+      "timestamp": 1713863880249
+    },
+    "-Nw9ErVCuKmQHd8SYShw": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "HAPPY",
+      "timestamp": 1713863882997
+    },
+    "-Nw9EsROsl4wB5oEMdOS": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "ANGRY",
+      "timestamp": 1713863886849
+    },
+    "-Nw9EtbOdhaE8gDyUXmg": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863891656
+    },
+    "-Nw9EwwWCBCgFzskAFn-": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "SAD",
+      "timestamp": 1713863905293
+    },
+    "-Nw9EylVkLpoqIM46JNl": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "HAPPY",
+      "timestamp": 1713863912802
+    },
+    "-Nw9Ezh593oM0pDSbckF": {
+      "clientId": "::ffff:192.168.0.17:28528",
+      "message": "FEAR",
+      "timestamp": 1713863916599
+    },
+    "-NwA8Nm2M9J3BExxkpAR": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "ANGRY",
+      "timestamp": 1713878961119
+    },
+    "-NwA8Utym-A_-EgcnXm4": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713878990519
+    },
+    "-NwA8a5TTJMJAUWwD7GY": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713879015897
+    },
+    "-NwA8rq_z9R6d7qG0Ll5": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713879088607
+    },
+    "-NwA8uzVFgs51aqTjR6v": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879101465
+    },
+    "-NwA8wCw5n2k5Q0z2ekl": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713879106488
+    },
+    "-NwA8xmFVCX-oMkgvOcC": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879112906
+    },
+    "-NwA8yiCpQaLgRulQUMn": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713879116744
+    },
+    "-NwA9CYJjndSD0KxW2Ff": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713879177534
+    },
+    "-NwA9Vw9ckgh-B7fcD87": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713879256907
+    },
+    "-NwA9tYQnhX_yfhHV6xm": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "HAPPY",
+      "timestamp": 1713879357735
+    },
+    "-NwA9wp4nkPjMRC8NVPr": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713879371151
+    },
+    "-NwAA03VC-9iF3cMRkH4": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879388515
+    },
+    "-NwAA2rOwJJLdQHw_UxV": {
+      "clientId": "::ffff:192.168.0.17:64778",
+      "message": "FEAR",
+      "timestamp": 1713879399964
+    },
+    "-NwAA6Yo2R9u54pqcJ1B": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879415095
+    },
+    "-NwABCiI9NvIjB5_lZ90": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "message": "FEAR",
+      "timestamp": 1713879702493
+    },
+    "-NwABE7S7GU2xxV52Ssy": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879708287
+    },
+    "-NwABHfdiUUbJRUlBymU": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713879722803
+    },
+    "-NwABLE2X11htamhemyf": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879737360
+    },
+    "-NwABMFtuuziKb_6ddVD": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879741608
+    },
+    "-NwABN6cfXKDDUzaGRBx": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713879745086
+    },
+    "-NwABOGkxGHBrvgtaBja": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713879749819
+    },
+    "-NwABPfCgo5qdvQwsbfY": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879755537
+    },
+    "-NwABQsilmOTpXPsYPjf": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713879760513
+    },
+    "-NwABSHCVNJjThrQTV15": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879766236
+    },
+    "-NwABTDk8-LFJbaW9ivV": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879770108
+    },
+    "-NwAB_yNqGY6jwNf2kXp": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713879801828
+    },
+    "-NwABd2PLtLiwkRym7Jb": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713879814453
+    },
+    "-NwABe_nKPO5dT-IZWhX": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713879821022
+    },
+    "-NwABfdLdZzQg980LHrY": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879825062
+    },
+    "-NwAC9D0rdBtXQVU6bAu": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "message": "HAPPY",
+      "timestamp": 1713879950291
+    },
+    "-NwACAwPLwCgPSqapSTa": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "message": "FEAR",
+      "timestamp": 1713879957355
+    },
+    "-NwACCT0FoBu6keh420u": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "message": "SAD",
+      "timestamp": 1713879963602
+    },
+    "-NwACE1oIM2wJyMHHL_n": {
+      "clientId": "::ffff:192.168.0.17:49498",
+      "message": "ANGRY",
+      "timestamp": 1713879970054
+    },
+    "-NwACFMOj0UHAil5p91l": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713879975455
+    },
+    "-NwACZNiOI2pgnKjHjCW": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713880057472
+    },
+    "-NwACabnqCr7q3xHz8Uq": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713880066651
+    },
+    "-NwACbZknN0VCvaaJKTy": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713880070530
+    },
+    "-NwADGPjNbVlrLAJV3OE": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713880241923
+    },
+    "-NwADKur08Y4dWpbIKRs": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713880260376
+    },
+    "-NwAEO_tIzrUdd8jYZ2-": {
+      "clientId": "::ffff:192.168.0.17:61175",
+      "message": "FEAR",
+      "timestamp": 1713880537559
+    },
+    "-NwAEPt42kGJqeerKVhU": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713880542883
+    },
+    "-NwAEe9zo1ihisr-UJW0": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713880605468
+    },
+    "-NwAEg09purYx9t6jie5": {
+      "clientId": "::ffff:192.168.0.17:61175",
+      "message": "FEAR",
+      "timestamp": 1713880613035
+    },
+    "-NwAFLLMpi2LisuYQ20U": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713880786434
+    },
+    "-NwAFN3LUWOojnGu2zuI": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713880793497
+    },
+    "-NwAFOE3833vnBJoy0Vl": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713880798246
+    },
+    "-NwAFaUQbUzhA_fk1oVh": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "FEAR",
+      "timestamp": 1713880852544
+    },
+    "-NwAFfzPJLzF3TJxvr2L": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "HAPPY",
+      "timestamp": 1713880875074
+    },
+    "-NwAFhEO9X6lNdB9Gx6y": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "SAD",
+      "timestamp": 1713880880195
+    },
+    "-NwAFiL9y_RsTmT150xF": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "ANGRY",
+      "timestamp": 1713880884724
+    },
+    "-NwAFjUQi91XWvXG4ywf": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "FEAR",
+      "timestamp": 1713880889413
+    },
+    "-NwAG_6m5L8joQxRTSAQ": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "FEAR",
+      "timestamp": 1713881109086
+    },
+    "-NwAJ3VoJtKAJz1A40nV": {
+      "clientId": "::ffff:192.168.0.17:63161",
+      "message": "FEAR",
+      "timestamp": 1713881761972
+    },
+    "-NwAJbvsAU2TeuXQZ4v2": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "HAPPY",
+      "timestamp": 1713881907072
+    },
+    "-NwAJduRI3TgOdE5DEYO": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "SAD",
+      "timestamp": 1713881915176
+    },
+    "-NwAJfLtefhZYW6JgIIP": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "FEAR",
+      "timestamp": 1713881921094
+    },
+    "-NwAJgXl40xpttSzJDmu": {
+      "clientId": "::ffff:192.168.0.21:54779",
+      "message": "ANGRY",
+      "timestamp": 1713881925946
+    },
+    "-NwAJkizafbiqxD8pecd": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "HAPPY",
+      "timestamp": 1713881943103
+    },
+    "-NwAKHXZdscpHWjeU1I0": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "HAPPY",
+      "timestamp": 1713882081573
+    },
+    "-NwAKIUGPybL5kd8uA3Q": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "SAD",
+      "timestamp": 1713882085458
+    },
+    "-NwAKM-deOECaChPYu4m": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "ANGRY",
+      "timestamp": 1713882099884
+    },
+    "-NwANCQ4zj6AxWi20L8P": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "ANGRY",
+      "timestamp": 1713882847065
+    },
+    "-NwANClhUkKiSh6OyBca": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "HAPPY",
+      "timestamp": 1713882848514
+    },
+    "-NwANDXextQc6n5rjp-z": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "HAPPY",
+      "timestamp": 1713882851649
+    },
+    "-NwANDuWOEeT2VkmcOyo": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "SAD",
+      "timestamp": 1713882853176
+    },
+    "-NwANE1CcQxdBfZ8TATi": {
+      "clientId": "::ffff:192.168.0.21:55467",
+      "message": "SAD",
+      "timestamp": 1713882853663
+    },
+    "-NwANKmqwSbxLGRetMsl": {
+      "clientId": "::ffff:192.168.0.21:55687",
+      "message": "HAPPY",
+      "timestamp": 1713882881359
+    },
+    "-NwANLREGoux1PasC2zr": {
+      "clientId": "::ffff:192.168.0.21:55687",
+      "message": "HAPPY",
+      "timestamp": 1713882884017
+    },
+    "-NwANLVHOU8NQ4pHWQ9j": {
+      "clientId": "::ffff:192.168.0.21:55687",
+      "message": "HAPPY",
+      "timestamp": 1713882884264
+    },
+    "-NwANLY2z0cdIL_EoGVE": {
+      "clientId": "::ffff:192.168.0.21:55687",
+      "message": "HAPPY",
+      "timestamp": 1713882884444
+    },
+    "-NwANoyag8jIYzezKtCR": {
+      "clientId": "::ffff:192.168.0.21:55728",
+      "message": "HAPPY",
+      "timestamp": 1713883008919
+    },
+    "-NwANqL6XFPT-LRCkG9_": {
+      "clientId": "::ffff:192.168.0.21:55728",
+      "message": "ANGRY",
+      "timestamp": 1713883014592
+    },
+    "-NwANr8qF1jC8YVhHlJD": {
+      "clientId": "::ffff:192.168.0.21:55728",
+      "message": "ANGRY",
+      "timestamp": 1713883017919
+    },
+    "-NwANsksjVRK6_Ud9fxZ": {
+      "clientId": "::ffff:192.168.0.21:55736",
+      "message": "SAD",
+      "timestamp": 1713883024494
+    },
+    "-NwAO0FaKY2ySeGScRho": {
+      "clientId": "::ffff:192.168.0.21:55747",
+      "message": "HAPPY",
+      "timestamp": 1713883059296
+    },
+    "-NwAONvhzzK4B1XAv40i": {
+      "clientId": "::ffff:192.168.0.21:55747",
+      "message": "SAD",
+      "timestamp": 1713883156264
+    },
+    "-NwAOQkQ6x9XeEBNIXp_": {
+      "clientId": "::ffff:192.168.0.17:51182",
+      "message": "HAPPY",
+      "timestamp": 1713883167833
+    },
+    "-NwAOSZk8e0KaUcphXgv": {
+      "clientId": "::ffff:192.168.0.17:51182",
+      "message": "FEAR",
+      "timestamp": 1713883175277
+    },
+    "-NwAOf9LLJ_Q7F6WDgnl": {
+      "clientId": "::ffff:192.168.0.21:55795",
+      "message": "HAPPY",
+      "timestamp": 1713883230933
+    },
+    "-NwARV7cVPBw8DvAnVIO": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "HAPPY",
+      "timestamp": 1713883973117
+    },
+    "-NwARXEJlxLGwJjM5But": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713883980813
+    },
+    "-NwARalkScoGiIMwoPV-": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "SAD",
+      "timestamp": 1713883999403
+    },
+    "-NwARd_3IbpNyN3EmtjP": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "HAPPY",
+      "timestamp": 1713884010877
+    },
+    "-NwARdgFJkEjsauf4vgK": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "HAPPY",
+      "timestamp": 1713884011345
+    },
+    "-NwARgb7DH-LpD-k3hzO": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "FEAR",
+      "timestamp": 1713884023296
+    },
+    "-NwARlscDcJdF8UJZ0au": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884044899
+    },
+    "-NwARor2T4MIJ4o3eD1O": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884057087
+    },
+    "-NwARsE1cqtsFB5cO7D9": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "ANGRY",
+      "timestamp": 1713884070930
+    },
+    "-NwARx1BqE0W1DYR1Gdk": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884090572
+    },
+    "-NwAS3J_QMQwlczNexzf": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884120422
+    },
+    "-NwAS7f9xZJdPmYUIWCO": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884138243
+    },
+    "-NwAS8fHQrNMJ-HdeNjp": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "SAD",
+      "timestamp": 1713884142348
+    },
+    "-NwASAOHDtE7vzjijcZI": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "HAPPY",
+      "timestamp": 1713884149395
+    },
+    "-NwASd3OsxYL-I7lycN6": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "HAPPY",
+      "timestamp": 1713884270949
+    },
+    "-NwASf5KJoo4ng0LSsn9": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "SAD",
+      "timestamp": 1713884279260
+    },
+    "-NwASgeIVhzACPfPtwen": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "ANGRY",
+      "timestamp": 1713884285662
+    },
+    "-NwASha9OzBytV82wk-E": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "FEAR",
+      "timestamp": 1713884289489
+    },
+    "-NwASnH4DfOx-WuJ4xkn": {
+      "clientId": "::ffff:192.168.0.17:61692",
+      "message": "FEAR",
+      "timestamp": 1713884312777
+    },
+    "-NwASqJj2Vbq8vIwm9eo": {
+      "clientId": "::ffff:192.168.0.21:55970",
+      "message": "SAD",
+      "timestamp": 1713884325239
+    },
+    "-NwAVjIG6b7nLghMjyWA": {
+      "clientId": "::ffff:192.168.0.21:50075",
+      "message": "HAPPY",
+      "timestamp": 1713885082862
+    },
+    "-NwAVrAkaWZ8k9pUe4b1": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "HAPPY",
+      "timestamp": 1713885115178
+    },
+    "-NwAVtvUpDgma8Gnpfh-": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "SAD",
+      "timestamp": 1713885126423
+    },
+    "-NwAVvDtZYndVmf3lC5O": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "ANGRY",
+      "timestamp": 1713885131760
+    },
+    "-NwAVwR2fZ8u1EMiLa8p": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "FEAR",
+      "timestamp": 1713885136699
+    },
+    "-NwAVzdu17J4Wn3xT_4K": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "HAPPY",
+      "timestamp": 1713885149872
+    },
+    "-NwAW0AWPBxHRW118LKk": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "SAD",
+      "timestamp": 1713885156120
+    },
+    "-NwAW22ldPxqIJmVB9yC": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "ANGRY",
+      "timestamp": 1713885163818
+    },
+    "-NwAW3XpejYCBn7zhJcY": {
+      "clientId": "::ffff:192.168.0.17:61813",
+      "message": "FEAR",
+      "timestamp": 1713885169905
+    },
+    "-NwAW5CZz6vW1KT2Y3wj": {
+      "clientId": "::ffff:192.168.0.21:50075",
+      "message": "HAPPY",
+      "timestamp": 1713885176730
+    },
+    "-NwAW6OyijIjg3x75-ub": {
+      "clientId": "::ffff:192.168.0.21:50075",
+      "message": "SAD",
+      "timestamp": 1713885181621
+    },
+    "-NwAW7jR9NoWDjsTsR-7": {
+      "clientId": "::ffff:192.168.0.21:50075",
+      "message": "ANGRY",
+      "timestamp": 1713885187090
+    },
+    "-NwAW8xeOayzfQlOEH2A": {
+      "clientId": "::ffff:192.168.0.21:50075",
+      "message": "FEAR",
+      "timestamp": 1713885192096
+    },
+    "-NwDZcjXQG1OJAdfRgJX": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "ANGRY",
+      "timestamp": 1713936435852
+    },
+    "-NwDZdDzo10G_BSxMBll": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "SAD",
+      "timestamp": 1713936438275
+    },
+    "-NwDZfwCzfQX-8-xmlEm": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "FEAR",
+      "timestamp": 1713936449392
+    },
+    "-NwDZhiLLVtb9DzIvV8f": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "HAPPY",
+      "timestamp": 1713936456794
+    },
+    "-NwDZpU1eGdGI1Sc7IA9": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "HAPPY",
+      "timestamp": 1713936489266
+    },
+    "-NwDZvhn_EVho5q18i-T": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "SAD",
+      "timestamp": 1713936514158
+    },
+    "-NwD_Y0pSldDIRYdUwmj": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "FEAR",
+      "timestamp": 1713936675151
+    },
+    "-NwD_knap8Wx_bnhlpyz": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "HAPPY",
+      "timestamp": 1713936731971
+    },
+    "-NwD_mJz6gsbS6RcOCPn": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "SAD",
+      "timestamp": 1713936738024
+    },
+    "-NwD_o6ORbjbgN76psoj": {
+      "clientId": "::ffff:192.168.68.243:59550",
+      "message": "ANGRY",
+      "timestamp": 1713936745371
+    },
+    "-NwDacMy63VKe5pgp8PK": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713936960752
+    },
+    "-NwDalTXphmJJhf0RlDb": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713936996707
+    },
+    "-NwDarjU6nQTg7X-WI0q": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713937022098
+    },
+    "-NwDasvu7E0PE_6w1i2O": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "FEAR",
+      "timestamp": 1713937026978
+    },
+    "-NwDb0cpyFLcGcAnOP1J": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "FEAR",
+      "timestamp": 1713937064483
+    },
+    "-NwDbBJH5toytAyeK8y_": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "ANGRY",
+      "timestamp": 1713937106324
+    },
+    "-NwDbH8aYQvsrpVUXA_6": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "SAD",
+      "timestamp": 1713937130520
+    },
+    "-NwDbH8d9whZZ2rP8W-k": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "SAD",
+      "timestamp": 1713937130524
+    },
+    "-NwDbH8fhRpPEh6qx7tv": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "FEAR",
+      "timestamp": 1713937130526
+    },
+    "-NwDbHKk8YSOTg_8mvqu": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "FEAR",
+      "timestamp": 1713937131510
+    },
+    "-NwDbHKn8nravtfK3kiO": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713937131513
+    },
+    "-NwDbHKoMfbaXRHf4ob9": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713937131516
+    },
+    "-NwDbHKq8zwdoghgBTHW": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713937131518
+    },
+    "-NwDbJxcycNLSj7nIZ91": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "FEAR",
+      "timestamp": 1713937141969
+    },
+    "-NwDbX5P4yAy7gaC3CWx": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "SAD",
+      "timestamp": 1713937195866
+    },
+    "-NwDbX5QcdWfmjjj89Sr": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "HAPPY",
+      "timestamp": 1713937195869
+    },
+    "-NwDbXBuj_sSoEZBjGCk": {
+      "clientId": "::ffff:192.168.68.243:62210",
+      "message": "ANGRY",
+      "timestamp": 1713937196102
+    },
+    "-NwDc8a37doPs3ezr6hV": {
+      "clientId": "::ffff:192.168.68.230:56470",
+      "message": "HAPPY",
+      "timestamp": 1713937357741
+    },
+    "-NwDc9o0haojv5HxgWsA": {
+      "clientId": "::ffff:192.168.68.230:56470",
+      "message": "HAPPY",
+      "timestamp": 1713937364219
+    },
+    "-NwDcKx4Juz7QxT-fWsU": {
+      "clientId": "::ffff:192.168.68.230:56524",
+      "message": "HAPPY",
+      "timestamp": 1713937412630
+    },
+    "-NwDcOBTxrjRPm_hvH7N": {
+      "clientId": "::ffff:192.168.68.230:56524",
+      "message": "HAPPY",
+      "timestamp": 1713937421231
+    },
+    "-NwDcPHuN7t4bU4AL0tH": {
+      "clientId": "::ffff:192.168.68.230:56524",
+      "message": "SAD",
+      "timestamp": 1713937425684
+    },
+    "-NwDcQYGTAbltPKWf0OC": {
+      "clientId": "::ffff:192.168.68.230:56524",
+      "message": "ANGRY",
+      "timestamp": 1713937430829
+    },
+    "-NwDcRJkyRbfGvhCRqyv": {
+      "clientId": "::ffff:192.168.68.230:56524",
+      "message": "FEAR",
+      "timestamp": 1713937433969
+    },
+    "-NwDceIIhHjim3z1J3g2": {
+      "clientId": "::ffff:192.168.68.243:58374",
+      "message": "SAD",
+      "timestamp": 1713937491222
+    },
+    "-NwDdzpXKUX-LNb0-gX-": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "SAD",
+      "timestamp": 1713937842042
+    },
+    "-NwDe-ciTDRHsD5Z8ses": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713937844857
+    },
+    "-NwDe11YyeoGLPeUaNzF": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713937850597
+    },
+    "-NwDe2axI6PJ4OBoDOka": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713937857453
+    },
+    "-NwDe6-1jPGqOnMpPKMt": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "message": "HAPPY",
+      "timestamp": 1713937871000
+    },
+    "-NwDe79hvV_7U2xj7B2H": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "message": "SAD",
+      "timestamp": 1713937875768
+    },
+    "-NwDe8GnZqWGKawU5Bxr": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "message": "ANGRY",
+      "timestamp": 1713937880587
+    },
+    "-NwDe9OWK6P9bkqVM-rE": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "message": "FEAR",
+      "timestamp": 1713937884952
+    },
+    "-NwDeB4R6vCClBIQy2Se": {
+      "clientId": "::ffff:192.168.68.230:56733",
+      "message": "HAPPY",
+      "timestamp": 1713937892119
+    },
+    "-NwDeM6l5C-J3Rn1tLBf": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713937936942
+    },
+    "-NwDeM6nxwd0GSrYb0YO": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713937936945
+    },
+    "-NwDeP3VLWZktjCOx4jT": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713937949090
+    },
+    "-NwDedT9OdEcaFd_qL90": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938012112
+    },
+    "-NwDeuee7PcNySViZKBc": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938082545
+    },
+    "-NwDf6_kJgKU_0g8omqe": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938135581
+    },
+    "-NwDf8S2-8kC5nu-0fE3": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938143511
+    },
+    "-NwDfFZl2b_a7MQzInFh": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938172290
+    },
+    "-NwDfGm-f1IAZih7-jIe": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938177227
+    },
+    "-NwDfJt9KDVlMSu1W9mY": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938189970
+    },
+    "-NwDfJtA6VM6j5sYCOdq": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "SAD",
+      "timestamp": 1713938189972
+    },
+    "-NwDfJtCjhYrDjMVQhJD": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938189975
+    },
+    "-NwDfMHluyXTvcRpA_ZX": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938199864
+    },
+    "-NwDfUrQugK8uUZJsOJN": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938234994
+    },
+    "-NwDffZHvQM18LzzToVO": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938282893
+    },
+    "-NwDff_cTmHO4iqzLh_-": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938282926
+    },
+    "-NwDfkyk8-FMdZnvsdd3": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938305037
+    },
+    "-NwDfldGajJ2oHXA8-OP": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938307735
+    },
+    "-NwDfmxE_gMM2wsKoFB1": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "SAD",
+      "timestamp": 1713938313114
+    },
+    "-NwDfn0t8z1CIuEH0RA1": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938313417
+    },
+    "-NwDfoNrivPB__CBVfYT": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938318969
+    },
+    "-NwDfp-HpLTCedYPVsRt": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938321515
+    },
+    "-NwDfwiK_D_estwCpPYJ": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938353341
+    },
+    "-NwDfyv3Bl1zb-rSSliS": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938362215
+    },
+    "-NwDg0B2CFfKT7jOXv-w": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938371397
+    },
+    "-NwDg2nynvw5x4hjKJt-": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "ANGRY",
+      "timestamp": 1713938382151
+    },
+    "-NwDg8tPWf339dbMXsAi": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938407075
+    },
+    "-NwDgEroqT3jR9g5FcJH": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938431636
+    },
+    "-NwDgFjjYbXD5fHuNQ6U": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938435128
+    },
+    "-NwDgK2tA0tbsRDsHP11": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938452798
+    },
+    "-NwDgZdw7SbxIxDKMcV_": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938516688
+    },
+    "-NwDglGNuIgzoSgKlt9_": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938568355
+    },
+    "-NwDgorDfxfQ8aWV_V_I": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "SAD",
+      "timestamp": 1713938583066
+    },
+    "-NwDgyNhsgOoNzuwUBDw": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938622177
+    },
+    "-NwDhFuNVPbTnnv3xbgE": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "FEAR",
+      "timestamp": 1713938697957
+    },
+    "-NwDhLn1G48bRw0oz2Bw": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "HAPPY",
+      "timestamp": 1713938722074
+    },
+    "-NwDhQ_lpVhod-qPJrXD": {
+      "clientId": "::ffff:192.168.68.243:62529",
+      "message": "SAD",
+      "timestamp": 1713938741696
+    },
+    "-NwDiIoqrH-BvuiIJaWP": {
+      "clientId": "::ffff:192.168.68.243:62566",
+      "message": "FEAR",
+      "timestamp": 1713938971698
+    },
+    "-NwDiP7C1gc5isYMydvT": {
+      "clientId": "::ffff:192.168.68.243:62566",
+      "message": "SAD",
+      "timestamp": 1713938997825
+    },
+    "-NwDiRCp3V-9e_Wg20Nm": {
+      "clientId": "::ffff:192.168.68.243:62566",
+      "message": "FEAR",
+      "timestamp": 1713939006377
+    },
+    "-NwDiT8ltN-vpwMqfHXC": {
+      "clientId": "::ffff:192.168.68.243:62566",
+      "message": "HAPPY",
+      "timestamp": 1713939014309
+    },
+    "-NwDok6JLdk4s0ls1KoS": {
+      "clientId": "::ffff:192.168.68.230:57448",
+      "message": "HAPPY",
+      "timestamp": 1713940665000
+    },
+    "-NwDoljpPyz9Ykl6OxsB": {
+      "clientId": "::ffff:192.168.68.230:57448",
+      "message": "SAD",
+      "timestamp": 1713940667762
+    },
+    "-NwDon7j4w1hdEwwomjF": {
+      "clientId": "::ffff:192.168.68.230:57448",
+      "message": "ANGRY",
+      "timestamp": 1713940673145
+    },
+    "-NwDoo35DCf6F8ZYyz6P": {
+      "clientId": "::ffff:192.168.68.230:57448",
+      "message": "FEAR",
+      "timestamp": 1713940676955
+    },
+    "-NwDor2G3AJJWqTejVGY": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "FEAR",
+      "timestamp": 1713940689311
+    },
+    "-NwDow6PxMwsdjLjxS64": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713940709907
+    },
+    "-NwDoznyeeiAtKxtSslV": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713940725067
+    },
+    "-NwDp2tng3KbQ3CP2wVr": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713940741805
+    },
+    "-NwDpAiJiVvkYo2CAA6X": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "FEAR",
+      "timestamp": 1713940773928
+    },
+    "-NwDpO4XHFHynPYxhVLa": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713940828571
+    },
+    "-NwDpVfNgflCIyxq_sPP": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713940859670
+    },
+    "-NwDpc7ufplL39v0tCkp": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713940890229
+    },
+    "-NwDpew7AVFzdLBx-4KM": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713940902773
+    },
+    "-NwDprdAMEuK78GOf_zy": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713940953829
+    },
+    "-NwDq-QRhhDPSn5dTEoU": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713940989760
+    },
+    "-NwDq-UDPGSZIgVTe3Wz": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713940989990
+    },
+    "-NwDq2xHS69R2_HJJmnS": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713941004491
+    },
+    "-NwDq8K5xKJ9w8vgqT5M": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713941026216
+    },
+    "-NwDqDXO70aVK9TfSdUJ": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "FEAR",
+      "timestamp": 1713941047515
+    },
+    "-NwDqIiRNVYTZzoXDZYe": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "FEAR",
+      "timestamp": 1713941068761
+    },
+    "-NwDqOXz_1aP6SCOPG1w": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713941092624
+    },
+    "-NwDqWbGgnVFcPbFOXQs": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713941125650
+    },
+    "-NwDqaUn0wa4cbs2xSdF": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713941145650
+    },
+    "-NwDqfY7wfg1gs2ufLtl": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "HAPPY",
+      "timestamp": 1713941166344
+    },
+    "-NwDqmdauhsAEnJYH451": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713941195432
+    },
+    "-NwDqnSRrDg5jYquDF9M": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713941198748
+    },
+    "-NwDqzRbad08FPfm_jQ8": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713941247847
+    },
+    "-NwDr9IEhkGCIBTLNADl": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "ANGRY",
+      "timestamp": 1713941292307
+    },
+    "-NwDrG2WSDvoHgR-LOHo": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713941320019
+    },
+    "-NwDrMe9dxMrSuBfPgMJ": {
+      "clientId": "::ffff:192.168.68.243:60926",
+      "message": "SAD",
+      "timestamp": 1713941347021
+    }
+  }
+}
