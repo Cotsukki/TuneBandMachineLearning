@@ -1,24 +1,5 @@
 # TuneBandMachineLearning
 
-# Data_Cleaning.py
-
-Overview
-This Python script is dedicated to cleaning and preprocessing data, ensuring that it is of high quality and ready for further analysis or machine learning processing.
-
-**Process Description**
-The script focuses on:
-- Removing duplicate entries to prevent skewed analysis.
-- Handling missing values either by filling them with statistically relevant data or removing the rows, depending on the context.
-- Correcting data formatting issues to maintain consistency across the dataset.
-
-**Key Libraries**
-- `pandas`: Utilized for its powerful data manipulation capabilities, allowing easy handling of dataframes for operations like filling missing values and removing duplicates.
-- `numpy`: Employed for numerical operations, particularly useful in data transformation and handling missing data through computational techniques.
-
-**Setup and Configuration**
-Dependencies: Ensure `pandas` and `numpy` are installed via pip.
-Running the script: Execute the script in a Python environment where the dataset is accessible.
-
 # Loader.py
 
 **Overview**
