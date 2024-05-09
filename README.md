@@ -1,3 +1,6 @@
+## Overview
+This project involves building a machine learning pipeline to categorize activities based on emotions and other features. The code employs several preprocessing steps, oversampling techniques to address class imbalance, a Random Forest classifier, and extensive evaluation metrics to gauge performance.
+
 ### Loader.py Overview
 
 **Introduction**
@@ -44,53 +47,40 @@ The `Loader.py` script is designed to streamline the data intake process for our
 **Benefits**
 - Automates the tedious tasks of data loading and preprocessing, allowing data scientists to focus on more strategic aspects like model development and analysis.
 
-Certainly! Here’s an elaborated README section for the `training_validation.py` script, detailing its functionalities, how the code operates, the machine learning model used, and an explanation of its operation:
+### training_validation_final.py Overview
 
-### training_validation.py Overview
+## Data Loading and Preprocessing
+- **Data Loading**: Data is loaded from a CSV file into a pandas DataFrame.
+- **Activity Mapping**: Activities in the dataset are mapped to broader categories to simplify the classification task. A dictionary maps specific activities to their respective categories.
+- **Target Encoding**: The categorical target variable (activity categories) is encoded into numerical format using `LabelEncoder` from `sklearn.preprocessing`.
 
-**Introduction**
-The `training_validation.py` script is dedicated to training machine learning models and evaluating their effectiveness. It handles the entire process from data preparation to model validation, ensuring that the models are robust and reliable for practical applications.
+## Feature Engineering
+- **One-Hot Encoding**: Categorical features like 'Emotion' are transformed into numerical format through one-hot encoding, which creates binary columns for each category.
+- **Feature Combination**: Numerical features and one-hot encoded features are combined to form the complete feature set used for training.
 
-**Detailed Process Description**
+## Handling Class Imbalance
+- **SMOTE and Random Oversampling**: Depending on the minimum class size, either SMOTE or Random Oversampling is applied to balance the dataset, helping improve model performance across classes.
 
-**1. Data Preparation**
-- **Loading Data**: Begins by loading a dataset from a CSV file, which contains activities and their associated emotional ratings.
-- **Data Inspection**: The script performs a quick examination of the dataset to ensure all required columns are present and correctly formatted.
-- **Label Encoding**: Activity names are transformed into a numeric format using label encoding to facilitate processing by machine learning algorithms.
-- **Feature Engineering**: Combines ratings with emotions to create interaction features, enhancing the model’s ability to learn complex patterns.
-- **Data Augmentation**: Uses techniques like SMOTE to balance the dataset, addressing any class imbalance by generating synthetic samples.
+## Model Training and Evaluation
+- **Pipeline Creation**: A pipeline comprising a standard scaler and a Random Forest classifier is created. The scaler standardizes features to have zero mean and unit variance, while the classifier is used for making predictions.
+- **Model Training**: The model is trained using the prepared dataset.
+- **Model Evaluation**: The model is evaluated using metrics such as accuracy, precision, recall, and F1-score. Additionally, ROC curves for multi-class classification and a confusion matrix are generated to visualize performance.
 
-**2. Model Training and Validation**
-- **Train-Test Split**: Divides the data into training and testing subsets, ensuring the model can be evaluated on unseen data.
-- **Model Selection**: Utilizes a RandomForestClassifier for its robustness and ability to handle nonlinear data. A pipeline is set up to streamline preprocessing and model training.
-- **Hyperparameter Tuning**: Employs GridSearchCV for optimizing model parameters, ensuring the best possible model configuration is selected.
-- **Model Evaluation**: After training, the model is tested using metrics such as accuracy, precision, recall, and F1-score to evaluate its performance comprehensively.
+## Visualizations
+- **ROC Curve**: Receiver Operating Characteristic curves for each class are plotted to evaluate the trade-off between true positive rate and false positive rate at various threshold settings.
+- **Confusion Matrix**: A confusion matrix is visualized using Plotly to provide a clear view of the model’s performance in terms of correctly and incorrectly classified instances.
+- **Learning Curve**: Learning curves are plotted to analyze the model's performance with increasing amounts of training data, which helps in understanding the bias-variance trade-off.
 
-**3. Visualization and Reporting**
-- **Confusion Matrix**: Visualizes the model’s performance across different classes, helping identify any biases or weaknesses in classification.
-- **Performance Metrics**: Displays detailed metrics that quantify the model’s effectiveness in handling various classification tasks.
+## Functions and Libraries Used
+- **Pandas**: For data manipulation and ingestion.
+- **NumPy**: For numerical operations on arrays.
+- **Matplotlib & Plotly**: For plotting graphs and interactive visualizations.
+- **Scikit-learn**: For model building, data preprocessing, and performance evaluation.
+- **imblearn**: For applying oversampling techniques to address class imbalance.
+- **StratifiedKFold, RandomizedSearchCV**: For robust cross-validation and hyperparameter tuning.
 
-**Key Libraries**
-- `pandas`: For data manipulation and ingestion.
-- `sklearn`: Provides tools for model training, data splitting, feature engineering, and performance evaluation.
-- `matplotlib` and `seasn`: For data visualization, particularly useful in displaying the confusion matrix and other plots.
-- `imblearn`: Enhances dataset quality by balancing class distribution through oversampling techniques like SMOTE.
+## Setup and Execution
+To execute this code, ensure you have Python installed with the required libraries. Adjust the path to the dataset as per your environment setup.
 
-**Setup and Configuration**
-Dependencies: Installation of `pandas`, `sklearn`, `matplotlib`, `seaborn`, and `imblearn` is required.
-Running the script: Ensure all dependencies are installed and the data file is correctly placed in the designated directory.
-
-**Model Performance Evaluation**
-This section delves deep into the metrics used for assessing model performance:
-- **Accuracy** gauges the overall correctness of the model.
-- **Precision** and **Recall** provide insights into the model's ability to correctly predict positive class labels without mislabeling.
-- **F1 Score** combines precision and recall in a single metric, offering a balance between the two when uneven class distribution might affect other metrics.
-- **ROC-AUC** provides an aggregate measure of performance across all possible classification thresholds.
-
-**Explanation of RandomForest Model in Script**
-The RandomForestClassifier is a robust ensemble technique known for its high accuracy and control over overfitting. It operates by constructing a multitude of decision trees during training and outputting the class that is the mode of the classes of the individual trees. This method is particularly effective for complex classification tasks where relationships between features can be nonlinear.
-
-**Additional Features**
-- **Recommendation Function**: The script includes a custom function that recommends activities based on user input ratings and emotions, demonstrating the practical application of the trained model.
-
-
+## Conclusion
+This documentation covers the methodology, function descriptions, and performance evaluations included in the project. The approach takes into account various aspects of a typical machine learning workflow, from data preprocessing to detailed performance analysis, providing a robust framework for activity classification based on emotion.
